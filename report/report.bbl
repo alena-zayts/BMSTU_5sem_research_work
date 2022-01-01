@@ -1,0 +1,40 @@
+\begin{thebibliography}{1}
+\def\selectlanguageifdefined#1{
+\expandafter\ifx\csname date#1\endcsname\relax
+\else\language\csname l@#1\endcsname\fi}
+\ifx\undefined\url\def\url#1{{\small #1}}\else\fi
+\ifx\undefined\BibUrl\def\BibUrl#1{\url{#1}}\else\fi
+\ifx\undefined\BibAnnote\long\def\BibAnnote#1{(#1)}\else\fi
+\ifx\undefined\BibEmph\def\BibEmph#1{\emph{#1}}\else\fi
+
+\bibitem{see_get_2017}
+\selectlanguageifdefined{russian}
+See~Abigail, Liu~Peter~J., Manning~Christopher~D. Get To The Point:
+  Summarization with Pointer-Generator Networks~// Proceedings of the 55th
+  Annual Meeting of the Association for Computational Linguistics (Volume 1:
+  Long Papers).
+\newblock Association for Computational Linguistics.
+\newblock {С.}~1073--1083. URL:  https://aclanthology.org/P17-1099.
+
+\bibitem{paetzold_survey_2017}
+\selectlanguageifdefined{russian}
+Paetzold~Gustavo~H., Specia~Lucia. A Survey on Lexical Simplification.
+\newblock Т.~60.
+\newblock {С.}~549--593. URL:
+  https://www.jair.org/index.php/jair/article/view/11091.
+
+\bibitem{shardlow_survey_2014}
+\selectlanguageifdefined{russian}
+Shardlow~Matthew. A Survey of Automated Text Simplification.
+\newblock Т.~4, {№}~1.
+\newblock Number: 1 Publisher: The Science and Information ({SAI}) Organization
+  Limited. URL:
+  https://thesai.org/Publications/ViewPaper?Volume=4&Issue=1&Code=SpecialIssue&SerialNo=9.
+
+\bibitem{noauthor_nlp_nodate}
+\selectlanguageifdefined{russian}
+{NLP} From Scratch: Translation with a Sequence to Sequence Network and
+  Attention — {PyTorch} Tutorials 1.10.1+cu102 documentation. URL:
+  https://pytorch.org/tutorials/intermediate/seq2seq_translation_tutorial.html.
+
+\end{thebibliography}

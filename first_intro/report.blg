@@ -1,0 +1,64 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: report.aux
+Reallocating 'name_of_file' (item size: 1) to 13 items.
+A level-1 auxiliary file: 02-intro.aux
+Reallocating 'name_of_file' (item size: 1) to 14 items.
+A level-1 auxiliary file: 51-biblio.aux
+Reallocating 'name_of_file' (item size: 1) to 13 items.
+The style file: utf8gost705u.bst
+Reallocating 'name_of_file' (item size: 1) to 10 items.
+Database file #1: 51-biblio.bib
+Warning--empty journal in sikka_survey_2020
+Warning--empty journal in finegan_dollak_sentence_2016
+Warning--empty year in liu_simplification_2016
+Warning--empty year in evans_evaluation_2014
+Warning--empty booktitle in kazan_federal_university
+Warning--empty year in kazan_federal_university
+Warning--empty booktitle in galeev_rubts_2021
+Warning--empty year in galeev_rubts_2021
+Warning--empty journal in xu_optimizing_2016
+Warning--empty journal in martin_muss_2021
+Warning--empty year in fang_learning_2017
+You've used 9 entries,
+            2958 wiz_defined-function locations,
+            718 strings with 7924 characters,
+and the built_in function-call counts, 3901 in all, are:
+= -- 565
+> -- 121
+< -- 11
++ -- 37
+- -- 28
+* -- 205
+:= -- 424
+add.period$ -- 35
+call.type$ -- 9
+change.case$ -- 0
+chr.to.int$ -- 0
+cite$ -- 20
+duplicate$ -- 160
+empty$ -- 334
+format.name$ -- 28
+if$ -- 1055
+int.to.chr$ -- 0
+int.to.str$ -- 9
+missing$ -- 0
+newline$ -- 58
+num.names$ -- 27
+pop$ -- 106
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 153
+stack$ -- 0
+substring$ -- 216
+swap$ -- 107
+text.length$ -- 2
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 11
+while$ -- 30
+width$ -- 10
+write$ -- 139
+(There were 11 warnings)

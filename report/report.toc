@@ -1,0 +1,14 @@
+\babel@toc {russian}{}
+\contentsline {chapter}{Введение}{3}{chapter*.2}%
+\contentsline {chapter}{\numberline {1}Анализ предметной области}{4}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Конвейерная обработка данных}{4}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Выводы из аналитиза предметной области}{5}{section.1.2}%
+\contentsline {chapter}{\numberline {2}Классификация существующих решений (методов решения, алгоритмов)}{6}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Существующие подходы}{6}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Абстрактный подход}{6}{section.2.2}%
+\contentsline {section}{\numberline {2.3}Генерация нового текста}{7}{section.2.3}%
+\contentsline {subsection}{\numberline {2.3.1}Синтаксическое упрощение}{8}{subsection.2.3.1}%
+\contentsline {chapter}{\numberline {3}Построение прототипа метода (или алгоритма, решения)}{9}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Выбор средств реализации}{9}{section.3.1}%
+\contentsline {chapter}{Выводы}{10}{chapter*.3}%
+\contentsline {chapter}{Список использованной литературы}{11}{chapter*.3}%

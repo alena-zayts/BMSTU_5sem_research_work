@@ -1,0 +1,76 @@
+\begin{thebibliography}{1}
+\def\selectlanguageifdefined#1{
+\expandafter\ifx\csname date#1\endcsname\relax
+\else\language\csname l@#1\endcsname\fi}
+\ifx\undefined\url\def\url#1{{\small #1}}\else\fi
+\ifx\undefined\BibUrl\def\BibUrl#1{\url{#1}}\else\fi
+\ifx\undefined\BibAnnote\long\def\BibAnnote#1{(#1)}\else\fi
+\ifx\undefined\BibEmph\def\BibEmph#1{\emph{#1}}\else\fi
+
+\bibitem{sikka_survey_2020}
+\selectlanguageifdefined{russian}
+Sikka~Punardeep, Mago~Vijay. A Survey on Text Simplification. URL:
+  http://arxiv.org/abs/2008.08612.
+
+\bibitem{finegan_dollak_sentence_2016}
+\selectlanguageifdefined{russian}
+Finegan-Dollak~Catherine, Radev~Dragomir~R. Sentence simplification,
+  compression, and disaggregation for summarization of sophisticated documents.
+\newblock Т.~67, {№}~10.
+\newblock {С.}~2437--2453. URL:
+  https://onlinelibrary.wiley.com/doi/10.1002/asi.23576.
+
+\bibitem{liu_simplification_2016}
+\selectlanguageifdefined{russian}
+Liu~Jun, Matsumoto~Yuji. Simplification of Example Sentences for Learners of
+  Japanese Functional Expressions~// Proceedings of the 3rd Workshop on Natural
+  Language Processing Techniques for Educational Applications ({NLPTEA}2016).
+\newblock The {COLING} 2016 Organizing Committee.
+\newblock {С.}~1--5. URL:  https://aclanthology.org/W16-4901.
+
+\bibitem{evans_evaluation_2014}
+\selectlanguageifdefined{russian}
+Evans~Richard, Orăsan~Constantin, Dornescu~Iustin. An evaluation of syntactic
+  simplification rules for people with autism~// Proceedings of the 3rd
+  Workshop on Predicting and Improving Text Readability for Target Reader
+  Populations ({PITR}).
+\newblock Association for Computational Linguistics.
+\newblock {С.}~131--140. URL:  https://aclanthology.org/W14-1215.
+
+\bibitem{kazan_federal_university}
+\selectlanguageifdefined{russian}
+{RuSimpleSentEval}-2021 Shared Task: Evaluating Sentence Simplification for
+  Russian~/ ~{Kazan Federal University, Kazan, Russia}, Andrey~Sakhovskiy,
+  Alexandra~Izhevskaya {[и~др.]}.
+\newblock {С.}~607--617. URL:
+  http://www.dialog-21.ru/media/5558/sakhovskiyaplusetal161.pdf.
+
+\bibitem{galeev_rubts_2021}
+\selectlanguageifdefined{russian}
+{ruBTS}: Russian Sentence Simplification Using Back-translation~/ Farit~Galeev,
+  Marina~Leushina, Vladimir~Ivanov {[и~др.]}.
+\newblock {С.}~259--267. URL:
+  http://www.dialog-21.ru/media/5510/galeevfplusleushinamplusivanovv144.pdf.
+
+\bibitem{xu_optimizing_2016}
+\selectlanguageifdefined{russian}
+Optimizing Statistical Machine Translation for Text Simplification~/ Wei~Xu,
+  Courtney~Napoles, Ellie~Pavlick {[и~др.]}.
+\newblock Т.~4.
+\newblock {С.}~401--415. URL:  https://doi.org/10.1162/tacl\_a\_00107.
+
+\bibitem{martin_muss_2021}
+\selectlanguageifdefined{russian}
+{MUSS}: Multilingual Unsupervised Sentence Simplification by Mining
+  Paraphrases~/ Louis~Martin, Angela~Fan, Éric~de~la~Clergerie {[и~др.]}.
+  URL:  http://arxiv.org/abs/2005.00352.
+
+\bibitem{fang_learning_2017}
+\selectlanguageifdefined{russian}
+Fang~Meng, Li~Yuan, Cohn~Trevor. Learning how to Active Learn: A Deep
+  Reinforcement Learning Approach~// Proceedings of the 2017 Conference on
+  Empirical Methods in Natural Language Processing.
+\newblock Association for Computational Linguistics.
+\newblock {С.}~595--605. URL:  https://aclanthology.org/D17-1063.
+
+\end{thebibliography}
