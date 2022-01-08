@@ -1,4 +1,4 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{10}
 \def\selectlanguageifdefined#1{
 \expandafter\ifx\csname date#1\endcsname\relax
 \else\language\csname l@#1\endcsname\fi}
@@ -6,6 +6,57 @@
 \ifx\undefined\BibUrl\def\BibUrl#1{\url{#1}}\else\fi
 \ifx\undefined\BibAnnote\long\def\BibAnnote#1{(#1)}\else\fi
 \ifx\undefined\BibEmph\def\BibEmph#1{\emph{#1}}\else\fi
+
+\bibitem{siddharthan_survey_2014}
+\selectlanguageifdefined{russian}
+Siddharthan~Advaith. A survey of research on text simplification.
+
+\bibitem{martin_muss_2021}
+\selectlanguageifdefined{russian}
+{MUSS}: Multilingual Unsupervised Sentence Simplification by Mining
+  Paraphrases~/ Louis~Martin, Angela~Fan, Éric~de~la~Clergerie {[и~др.]}.
+  URL:  http://arxiv.org/abs/2005.00352.
+
+\bibitem{zhu_monolingual_2010}
+\selectlanguageifdefined{russian}
+Zhu~Zhemin, Bernhard~Delphine, Gurevych~Iryna. A Monolingual Tree-based
+  Translation Model for Sentence Simplification.
+\newblock {С.}~1353--1361. URL:  https://aclanthology.org/C10-1152.
+
+\bibitem{sikka_survey_2020}
+\selectlanguageifdefined{russian}
+Sikka~Punardeep, Mago~Vijay. A Survey on Text Simplification. URL:
+  http://arxiv.org/abs/2008.08612.
+
+\bibitem{finegan_dollak_sentence_2016}
+\selectlanguageifdefined{russian}
+Finegan-Dollak~Catherine, Radev~Dragomir~R. Sentence simplification,
+  compression, and disaggregation for summarization of sophisticated documents.
+\newblock Т.~67, {№}~10.
+\newblock {С.}~2437--2453. URL:
+  https://onlinelibrary.wiley.com/doi/10.1002/asi.23576.
+
+\bibitem{liu_simplification_2016}
+\selectlanguageifdefined{russian}
+Liu~Jun, Matsumoto~Yuji. Simplification of Example Sentences for Learners of
+  Japanese Functional Expressions~// Proceedings of the 3rd Workshop on Natural
+  Language Processing Techniques for Educational Applications ({NLPTEA}2016).
+\newblock The {COLING} 2016 Organizing Committee.
+\newblock {С.}~1--5. URL:  https://aclanthology.org/W16-4901.
+
+\bibitem{evans_evaluation_2014}
+\selectlanguageifdefined{russian}
+Evans~Richard, Orăsan~Constantin, Dornescu~Iustin. An evaluation of syntactic
+  simplification rules for people with autism.
+\newblock {С.}~131--140. URL:  https://aclanthology.org/W14-1215.
+
+\bibitem{kazan_federal_university}
+\selectlanguageifdefined{russian}
+{RuSimpleSentEval}-2021 Shared Task: Evaluating Sentence Simplification for
+  Russian~/ ~{Kazan Federal University, Kazan, Russia}, Andrey~Sakhovskiy,
+  Alexandra~Izhevskaya {[и~др.]}.
+\newblock {С.}~607--617. URL:
+  http://www.dialog-21.ru/media/5558/sakhovskiyaplusetal161.pdf.
 
 \bibitem{see_get_2017}
 \selectlanguageifdefined{russian}
@@ -18,23 +69,118 @@ See~Abigail, Liu~Peter~J., Manning~Christopher~D. Get To The Point:
 
 \bibitem{paetzold_survey_2017}
 \selectlanguageifdefined{russian}
-Paetzold~Gustavo~H., Specia~Lucia. A Survey on Lexical Simplification.
-\newblock Т.~60.
-\newblock {С.}~549--593. URL:
-  https://www.jair.org/index.php/jair/article/view/11091.
+A Survey on Lexical Simplification.
+\newblock Т.~60. URL:  https://www.jair.org/index.php/jair/article/view/11091.
 
 \bibitem{shardlow_survey_2014}
 \selectlanguageifdefined{russian}
 Shardlow~Matthew. A Survey of Automated Text Simplification.
-\newblock Т.~4, {№}~1.
-\newblock Number: 1 Publisher: The Science and Information ({SAI}) Organization
-  Limited. URL:
-  https://thesai.org/Publications/ViewPaper?Volume=4&Issue=1&Code=SpecialIssue&SerialNo=9.
+\newblock Т.~4.
 
 \bibitem{noauthor_nlp_nodate}
 \selectlanguageifdefined{russian}
 {NLP} From Scratch: Translation with a Sequence to Sequence Network and
   Attention — {PyTorch} Tutorials 1.10.1+cu102 documentation. URL:
-  https://pytorch.org/tutorials/intermediate/seq2seq_translation_tutorial.html.
+  https://pytorch.org/tutorials/intermediate/seq2seq\_translation\_tutorial.html.
+
+\bibitem{rus_pas}
+\selectlanguageifdefined{russian}
+Валгина Н.С., Розенталь Д.Э., Фомина М.И.
+  Современный русский язык: Учебник / Под
+  редакцией Н.С. Вал. URL:
+  https://pedlib.ru/Books/6/0262/6\_0262-288.shtml\#book\_page\_top.
+
+\bibitem{chandrasekar_automatic_1997}
+\selectlanguageifdefined{russian}
+Chandrasekar~R., Srinivas~B. Automatic Induction of Rules for Text
+  Simplification.
+
+\bibitem{siddharthan_syntactic_2006}
+\selectlanguageifdefined{russian}
+Siddharthan~Advaith. Syntactic Simplification and Text Cohesion.
+\newblock Т.~4, {№}~1.
+\newblock {С.}~77--109.
+\newblock Number: 1 Publisher: Springer Netherlands. URL:
+  http://oro.open.ac.uk/58888/.
+
+\bibitem{jonnalagadda_biosimplify_2010}
+\selectlanguageifdefined{russian}
+Jonnalagadda~Siddhartha, Gonzalez~Graciela. {BioSimplify}: an open source
+  sentence simplification engine to improve recall in automatic biomedical
+  information extraction.
+\newblock Т. 2010.
+\newblock {С.}~351--355. URL:
+  http://www.scopus.com/inward/record.url?scp=84964959827\&partnerID=8YFLogxK.
+
+\bibitem{noauthor_svm_2017}
+\selectlanguageifdefined{russian}
+{SVM} {\textbar} Support Vector Machine Algorithm in Machine Learning. URL:
+  https://www.analyticsvidhya.com/blog/2017/09/understaing-support-vector-machine-example-code/.
+
+\bibitem{hutchison_ernesta_2013}
+\selectlanguageifdefined{russian}
+Barlacchi~Gianni, Tonelli~Sara. {ERNESTA}: A Sentence Simplification Tool for
+  Children’s Stories in Italian~// Computational Linguistics and Intelligent
+  Text Processing~/ {под ред. }Alexander~Gelbukh.
+\newblock Springer Berlin Heidelberg.
+\newblock Т.~7817.
+\newblock {С.}~476--487.
+\newblock Series Title: Lecture Notes in Computer Science. URL:
+  http://link.springer.com/10.1007/978-3-642-37256-8\_39.
+
+\bibitem{aluisio_fostering_2010}
+\selectlanguageifdefined{russian}
+Aluísio~Sandra, Gasperin~Caroline. Fostering Digital Inclusion and
+  Accessibility: The {PorSimples} project for Simplification of Portuguese
+  Texts~// Proceedings of the {NAACL} {HLT} 2010 Young Investigators Workshop
+  on Computational Approaches to Languages of the Americas.
+\newblock Association for Computational Linguistics.
+\newblock {С.}~46--53. URL:  https://aclanthology.org/W10-1607.
+
+\bibitem{deep}
+\selectlanguageifdefined{russian}
+A Review on Deep Learning Techniques Applied to Semantic Segmentation~/
+  Alberto~Garcia-Garcia, Sergio~Orts-Escolano, Sergiu~Oprea {[и~др.]}. URL:
+  http://arxiv.org/abs/1704.06857.
+
+\bibitem{nisioi_exploring_2017}
+\selectlanguageifdefined{russian}
+Exploring Neural Text Simplification Models~/ Sergiu~Nisioi, Sanja~Štajner,
+  Simone~Paolo~Ponzetto {[и~др.]}.
+\newblock {С.}~85--91. URL:  https://aclanthology.org/P17-2014.
+
+\bibitem{zhang_sentence_2017}
+\selectlanguageifdefined{russian}
+Zhang~Xingxing, Lapata~Mirella. Sentence Simplification with Deep Reinforcement
+  Learning.
+\newblock {С.}~584--594. URL:  https://aclanthology.org/D17-1062.
+
+\bibitem{likert}
+\selectlanguageifdefined{russian}
+отв. ред. Г. В.~Осипов~Л. Н. Москвичев; уч.
+  секр. О. Е.~Чернощек. Косолапов М.С. Шкала
+  Лайкерта (Ликерта). Социологический
+  словарь~// М.: Академический учебно-научный
+  центр РАН-МГУ им. М.В. Ломоносова, НОРМА,
+  НИЦ ИНФРА М.
+\newblock 2015.
+\newblock {С.}~372--373.
+
+\bibitem{xu_optimizing_2016}
+\selectlanguageifdefined{russian}
+Optimizing Statistical Machine Translation for Text Simplification~/ Wei~Xu,
+  Courtney~Napoles, Ellie~Pavlick {[и~др.]}.
+\newblock Т.~4.
+\newblock {С.}~401--415. URL:  https://doi.org/10.1162/tacl\_a\_00107.
+
+\bibitem{test}
+\selectlanguageifdefined{russian}
+Paasche-Orlow~Michael~K., Taylor~Holly~A., Brancati~Frederick~L. Readability
+  Standards for Informed-Consent Forms as Compared with Actual Readability.
+\newblock Т. 348, {№}~8.
+\newblock {С.}~721--726.
+\newblock Publisher: Massachusetts Medical Society \_eprint:
+  https://doi.org/10.1056/{NEJMsa}021212. URL:
+  https://doi.org/10.1056/NEJMsa021212.
 
 \end{thebibliography}

@@ -9,8 +9,6 @@ Reallocating 'name_of_file' (item size: 1) to 16 items.
 A level-1 auxiliary file: 10-analysis.aux
 Reallocating 'name_of_file' (item size: 1) to 14 items.
 A level-1 auxiliary file: 20-design.aux
-Reallocating 'name_of_file' (item size: 1) to 12 items.
-A level-1 auxiliary file: 30-impl.aux
 Reallocating 'name_of_file' (item size: 1) to 18 items.
 A level-1 auxiliary file: 50-conclusion.aux
 Reallocating 'name_of_file' (item size: 1) to 14 items.
@@ -19,52 +17,68 @@ Reallocating 'name_of_file' (item size: 1) to 13 items.
 The style file: utf8gost705u.bst
 Reallocating 'name_of_file' (item size: 1) to 10 items.
 Database file #1: 51-biblio.bib
-Warning--entry type for "noauthor_nlp_nodate" isn't style-file defined
---line 52 of file 51-biblio.bib
-Warning--I didn't find a database entry for "CBook"
-Warning--I didn't find a database entry for "CBook2"
+Warning--I didn't find a database entry for "alva-manchego_data-driven_2020alva-manchego_data-driven_2020"
+Warning--empty journal in siddharthan_survey_2014
+Warning--empty journal in martin_muss_2021
+Warning--empty journal in zhu_monolingual_2010
+Warning--empty journal in sikka_survey_2020
+Warning--empty journal in finegan_dollak_sentence_2016
+Warning--empty year in liu_simplification_2016
+Warning--empty journal in evans_evaluation_2014
+Warning--empty journal in kazan_federal_university
 Warning--empty year in see_get_2017
 Warning--empty journal in paetzold_survey_2017
 Warning--empty journal in shardlow_survey_2014
-You've used 4 entries,
+Warning--empty journal in noauthor_nlp_nodate
+Warning--empty journal in rus_pas
+Warning--empty journal in siddharthan_syntactic_2006
+Warning--empty journal in jonnalagadda_biosimplify_2010
+Warning--empty journal in noauthor_svm_2017
+Warning--empty year in aluisio_fostering_2010
+Warning--empty journal in deep
+Warning--empty journal in nisioi_exploring_2017
+Warning--empty journal in zhang_sentence_2017
+Warning--empty journal in xu_optimizing_2016
+Warning--empty journal in test
+You've used 25 entries,
             2958 wiz_defined-function locations,
-            698 strings with 6263 characters,
-and the built_in function-call counts, 1380 in all, are:
-= -- 199
-> -- 28
-< -- 5
-+ -- 10
-- -- 6
-* -- 70
-:= -- 147
-add.period$ -- 17
-call.type$ -- 4
+            804 strings with 11730 characters,
+and the built_in function-call counts, 8836 in all, are:
+= -- 1277
+> -- 235
+< -- 27
++ -- 78
+- -- 53
+* -- 434
+:= -- 948
+add.period$ -- 93
+call.type$ -- 25
 change.case$ -- 0
 chr.to.int$ -- 0
-cite$ -- 7
-duplicate$ -- 61
-empty$ -- 123
-format.name$ -- 6
-if$ -- 366
+cite$ -- 47
+duplicate$ -- 394
+empty$ -- 785
+format.name$ -- 53
+if$ -- 2380
 int.to.chr$ -- 0
-int.to.str$ -- 4
+int.to.str$ -- 25
 missing$ -- 0
-newline$ -- 32
-num.names$ -- 9
-pop$ -- 37
+newline$ -- 141
+num.names$ -- 62
+pop$ -- 261
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 46
+skip$ -- 324
 stack$ -- 0
-substring$ -- 72
-swap$ -- 43
-text.length$ -- 2
+substring$ -- 467
+swap$ -- 250
+text.length$ -- 7
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
-warning$ -- 3
-while$ -- 9
-width$ -- 5
-write$ -- 68
-(There were 6 warnings)
+warning$ -- 22
+while$ -- 67
+width$ -- 27
+write$ -- 353
+(There were 23 warnings)

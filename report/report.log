@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.6) (preloaded format=pdflatex 2021.9.4)  1 JAN 2022 15:31
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.6) (preloaded format=pdflatex 2021.9.4)  8 JAN 2022 16:18
 entering extended mode
 **./report.tex
 (report.tex
@@ -1036,8 +1036,8 @@ File: lstlang1.sty 2020/03/24 1.8d listings language file
 (C:\Program Files\MiKTeX\tex/latex/listings\lstlang1.sty
 File: lstlang1.sty 2020/03/24 1.8d listings language file
 )) (report.aux
-(01-contents.aux) (02-intro.aux) (10-analysis.aux) (20-design.aux) (30-impl.aux
-) (50-conclusion.aux) (51-biblio.aux))
+(01-contents.aux) (02-intro.aux) (10-analysis.aux) (20-design.aux)
+(50-conclusion.aux) (51-biblio.aux))
 \openout1 = `report.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 5.
@@ -1151,7 +1151,7 @@ LaTeX Info: Redefining \nameref on input line 5.
 \openout2 = `01-contents.aux'.
 
  (01-contents.tex (report.toc<<ot1.cmap>><<oml.cmap>><<oms.cmap>><<omx.cmap>>
-Overfull \hbox (2.73923pt too wide) in paragraph at lines 6--6
+Overfull \hbox (2.73923pt too wide) in paragraph at lines 7--7
  [] [][]\T2A/cmr/bx/n/14.4 Классификация су-ще-ству-ю-щих ре-ше-ний (ме-то-дов 
 ре-ше-ния, 
  []
@@ -1181,21 +1181,31 @@ Overfull \hbox (2.73923pt too wide) in paragraph at lines 6--6
 
  (10-analysis.tex
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 1.
-
-Overfull \hbox (14.26016pt too wide) in paragraph at lines 8--10
-\T2A/cmr/m/n/14.4 ста-тье (https://www.jbe-platform.com/content/journals/10.107
-5/itl.165.2.06sid)
- []
-
-) [4
+[4
 
 
 
 
 ] [5]
+<inc/img/growth_of_interest.png, id=129, 1810.51407pt x 891.33pt>
+File: inc/img/growth_of_interest.png Graphic file (type png)
+<use inc/img/growth_of_interest.png>
+Package pdftex.def Info: inc/img/growth_of_interest.png  used on input line 28.
+
+(pdftex.def)             Requested size: 452.62741pt x 222.83195pt.
+ [6
+
+ <./inc/img/growth_of_interest.png>]
+LaTeX Font Info:    Trying to load font information for T2A+cmtt on input line 
+49.
+
+(C:\Users\alena\AppData\Roaming\MiKTeX\tex/latex/cyrillic\t2acmtt.fd
+File: t2acmtt.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
+)) [7]
 \openout2 = `20-design.aux'.
 
- (20-design.tex
+
+(20-design.tex
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 2.
 
 Overfull \hbox (11.05089pt too wide) in paragraph at lines 1--1
@@ -1208,30 +1218,65 @@ Overfull \hbox (0.3802pt too wide) in paragraph at lines 3--4
 ют обос-но-ва-ние. При-
  []
 
-[6
-
-
-
-
-]) [7] [8]
-\openout2 = `30-impl.aux'.
-
- (30-impl.tex
-{\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 3.
-
-Overfull \hbox (16.54575pt too wide) in paragraph at lines 1--1
-|[]\T2A/cmr/bx/n/24.88 Построение про-то-ти-па ме-то-да (или ал-
- []
-
-) [9
+[8
 
 
 
 
 ]
+Overfull \hbox (5.51762pt too wide) in paragraph at lines 23--24
+\T2A/cmr/m/n/14.4 ля-ет-ся уни-вер-саль-ной. Пред-ва-ри-тель-ная об-ра-бот-ка д
+ан-ных вклю-ча-ет очист-
+ []
+
+[9]
+<inc/img/3steps.png, id=186, 279.1859pt x 298.54393pt>
+File: inc/img/3steps.png Graphic file (type png)
+<use inc/img/3steps.png>
+Package pdftex.def Info: inc/img/3steps.png  used on input line 48.
+(pdftex.def)             Requested size: 279.18521pt x 298.54318pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[10]
+Overfull \hbox (10.85709pt too wide) in paragraph at lines 60--61
+\T2A/cmr/m/n/14.4 лее про-стые, пе-ре-ста-нов-ка или уда-ле-ние этих про-стых п
+редложений[[]]. 
+ []
+
+
+LaTeX Warning: Citation `alva-manchego_data-driven_2020alva-manchego_data-drive
+n_2020' on page 11 undefined on input line 65.
+
+
+Overfull \hbox (8.5847pt too wide) in paragraph at lines 65--66
+[]\T2A/cmr/m/n/14.4 Синтаксическое упро-ще-ние счи-та-лось важ-ным ком-по-нен-т
+ом си-стем упро-
+ []
+
+[11 <./inc/img/3steps.png>]
+Overfull \hbox (6.27982pt too wide) in paragraph at lines 71--72
+\T2A/cmr/m/n/14.4 лу-ча-ет-ся пе-ре-ве-ден-ный текст. Ма-шин-ный пе-ре-вод был 
+успеш-но применен[[]]
+ []
+
+[12]
+Overfull \hbox (38.85272pt too wide) in paragraph at lines 91--92
+[]\T2A/cmr/m/n/14.4 Во-первых, это неточ-ность ре-зуль-та-та. Эф-фек-тив-ность 
+мо-де-лей кодировщика-
+ []
+
+[13]
+Overfull \hbox (10.2575pt too wide) in paragraph at lines 95--96
+\T2A/cmr/m/n/14.4 декодера в со-че-та-нии с си-сте-мой глу-бо-ко-го обу-че-ния 
+с под-креп-ле-ни-ем DRESS
+ []
+
+[14] [15] [16]) [17]
 \openout2 = `50-conclusion.aux'.
 
- (50-conclusion.tex) [10
+ (50-conclusion.tex) [18
 
 
 
@@ -1240,146 +1285,150 @@ Overfull \hbox (16.54575pt too wide) in paragraph at lines 1--1
 \openout2 = `51-biblio.aux'.
 
  (51-biblio.tex (report.bbl
-Underfull \hbox (badness 10000) in paragraph at lines 21--25
-[]\T2A/cmr/m/n/14.4 Paetzold Gustavo H., Specia Lucia. A Survey on
+Underfull \hbox (badness 10000) in paragraph at lines 33--38
+[]\T2A/cmr/m/n/14.4 Finegan-Dollak Catherine, Radev Dragomir R. Sentence
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 21--25
-\T2A/cmr/m/n/14.4 Lexical Simplification.  Т. 60.  С. 549--593. URL:
- []
-
-! Misplaced alignment tab character &.
-l.32 ...hesai.org/Publications/ViewPaper?Volume=4&
-                                                  Issue=1&Code=SpecialIssue&...
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-! Misplaced alignment tab character &.
-l.32 ...g/Publications/ViewPaper?Volume=4&Issue=1&
-                                                  Code=SpecialIssue&SerialNo=9.
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-! Misplaced alignment tab character &.
-l.32 ...wPaper?Volume=4&Issue=1&Code=SpecialIssue&
-                                                  SerialNo=9.
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 28--33
-[]\T2A/cmr/m/n/14.4 Shardlow Matthew. A Survey of Automated Text
+Underfull \hbox (badness 6141) in paragraph at lines 33--38
+\T2A/cmr/m/n/14.4 simplification, compression, and disaggregation for summariza
+tion
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 28--33
-\T2A/cmr/m/n/14.4 Simplification.  Т. 4, ќ 1.  Number: 1 Publisher: The
+Underfull \hbox (badness 1253) in paragraph at lines 33--38
+\T2A/cmr/m/n/14.4 of sophisticated documents.  Т. 67, ќ 10.  С. 2437--2453. URL
+:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 28--33
-\T2A/cmr/m/n/14.4 Science and Information (SAI) Organization Limited. URL:
+Underfull \hbox (badness 10000) in paragraph at lines 55--60
+\T2A/cmr/m/n/14.4 for Russian /  Kazan Federal University, Kazan, Russia,
  []
 
-
-Overfull \hbox (112.6203pt too wide) in paragraph at lines 28--33
-\T2A/cmr/m/n/14.4 https://thesai.org/Publications/ViewPaper?Volume=4Issue=1Code
-=SpecialIssueSerialNo=9. 
- []
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.38 ...ytorch.org/tutorials/intermediate/seq2seq_
-                                                  translation_tutorial.html.
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.39 
-     
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-! Missing } inserted.
-<inserted text> 
-                }
-l.39 
-     
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-
-Overfull \hbox (14.5169pt too wide) in paragraph at lines 36--39
-\T2A/cmr/m/n/14.4 https://pytorch.org/tutorials/intermediate/seq2seq$[]\OML/cmm
-/m/it/14.4 ranslation[]utorial:html:[]$ 
- []
-
-! Extra }, or forgotten \endgroup.
-\par ...m \@noitemerr {\@@par }\fi \else {\@@par }
-                                                  \fi 
-l.39 
-     
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-)) [11
+[19
 
 
 
 
 ]
+Underfull \hbox (badness 10000) in paragraph at lines 72--74
+[]\T2A/cmr/m/n/14.4 A Survey on Lexical Simplification.  Т. 60. URL:
+ []
 
-Package caption Warning: Unused \captionsetup[figure] on input line 10.
-See the caption package documentation for explanation.
 
-(report.aux (01-contents.aux) (02-intro.aux) (10-analysis.aux) (20-design.aux)
-(30-impl.aux) (50-conclusion.aux) (51-biblio.aux))
+Overfull \hbox (32.11348pt too wide) in paragraph at lines 82--85
+\T2A/cmr/m/n/14.4 https://pytorch.org/tutorials/intermediate/seq2seq_translatio
+n_tutorial.html. 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 88--92
+[]\T2A/cmr/m/n/14.4 Валгина Н.С., Ро-зен-таль Д.Э., Фо-ми-на М.И. Со-вре-мен-ны
+й
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 88--92
+\T2A/cmr/m/n/14.4 рус-ский язык: Учеб-ник / Под ре-дак-ци-ей Н.С. Вал. URL:
+ []
+
+
+Underfull \hbox (badness 1946) in paragraph at lines 108--114
+[]\T2A/cmr/m/n/14.4 Jonnalagadda Siddhartha, Gonzalez Graciela. BioSimplify: an
+ open
+ []
+
+
+Underfull \hbox (badness 1838) in paragraph at lines 108--114
+\T2A/cmr/m/n/14.4 biomedical information extraction.  Т. 2010.  С. 351--355. UR
+L:
+ []
+
+
+Overfull \hbox (77.12688pt too wide) in paragraph at lines 108--114
+\T2A/cmr/m/n/14.4 http://www.scopus.com/inward/record.url?scp=84964959827&partn
+erID=8YFLogxK. 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 117--119
+\T2A/cmr/m/n/14.4 https://www.analyticsvidhya.com/blog/2017/09/understaing-supp
+ort-
+ []
+
+
+Underfull \hbox (badness 1817) in paragraph at lines 133--139
+[]\T2A/cmr/m/n/14.4 Alusio Sandra, Gasperin Caroline. Fostering Digital Inclu
+sion and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 133--139
+\T2A/cmr/m/n/14.4 Workshop on Computational Approaches to Languages of the
+ []
+
+
+Underfull \hbox (badness 1552) in paragraph at lines 133--139
+\T2A/cmr/m/n/14.4 Americas.  Association for Computational Linguistics.  С. 46-
+-53.
+ []
+
+[20]
+Underfull \hbox (badness 6658) in paragraph at lines 142--145
+[]\T2A/cmr/m/n/14.4 A Review on Deep Learning Techniques Applied to Semantic
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 148--151
+[]\T2A/cmr/m/n/14.4 Exploring Neural Text Simplification Models / Sergiu Nisioi
+,
+ []
+
+
+Underfull \hbox (badness 1762) in paragraph at lines 148--151
+\T2A/cmr/m/n/14.4 Sanja []Stajner, Simone Paolo Ponzetto [и др.].  С. 85--91. U
+RL:
+ []
+
+
+Underfull \hbox (badness 1418) in paragraph at lines 178--185
+[]\T2A/cmr/m/n/14.4 Paasche-Orlow Michael K., Taylor Holly A., Brancati Frederi
+ck L.
+ []
+
+)) [21] (report.aux (01-contents.aux) (02-intro.aux) (10-analysis.aux)
+(20-design.aux) (50-conclusion.aux) (51-biblio.aux))
+
+LaTeX Warning: There were undefined references.
+
 Package rerunfilecheck Info: File `report.out' has not changed.
-(rerunfilecheck)             Checksum: 7D2B8914D0F4EA641ECF9038C5ED9CE4;3540.
+(rerunfilecheck)             Checksum: 8109E3B3CA4EF6FAE83CF2934AEEDC90;3910.
  ) 
 Here is how much of TeX's memory you used:
- 37075 strings out of 478864
- 855950 string characters out of 2858518
- 1452623 words of memory out of 10000000
- 54299 multiletter control sequences out of 15000+600000
- 413128 words of font info for 43 fonts, out of 8000000 for 9000
+ 37205 strings out of 478864
+ 858460 string characters out of 2858518
+ 1454623 words of memory out of 10000000
+ 54379 multiletter control sequences out of 15000+600000
+ 413779 words of font info for 45 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 106i,8n,102p,1697b,609s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 106i,11n,102p,2527b,609s stack positions out of 5000i,500n,10000p,200000b,80000s
  <C:\Users\alena\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx17
 28.pk> <C:\Users\alena\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\la
-rm0700.pk> <C:\Users\alena\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi60
-0\larm1000.pk> <C:\Users\alena\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/d
-pi600\labx2074.pk> <C:\Users\alena\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t
-2a/dpi600\larm1440.pk> <C:\Users\alena\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/
-lh-t2a/dpi600\labx1440.pk> <C:\Users\alena\AppData\Local\MiKTeX\fonts/pk/ljfour
-/lh/lh-t2a/dpi600\labx2488.pk><C:/Program Files/MiKTeX/fonts/type1/public/amsfo
-nts/cm/cmmi10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi1
-2.pfb>
-Output written on report.pdf (10 pages, 173370 bytes).
+tt1000.pk> <C:\Users\alena\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi60
+0\larm0700.pk> <C:\Users\alena\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/d
+pi600\larm1000.pk> <C:\Users\alena\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappe
+n/ec/dpi600\tcrm1440.pk> <C:\Users\alena\AppData\Local\MiKTeX\fonts/pk/ljfour/l
+h/lh-t2a/dpi600\labx2074.pk> <C:\Users\alena\AppData\Local\MiKTeX\fonts/pk/ljfo
+ur/lh/lh-t2a/dpi600\larm1440.pk> <C:\Users\alena\AppData\Local\MiKTeX\fonts/pk/
+ljfour/lh/lh-t2a/dpi600\labx1440.pk> <C:\Users\alena\AppData\Local\MiKTeX\fonts
+/pk/ljfour/lh/lh-t2a/dpi600\labx2488.pk><C:/Program Files/MiKTeX/fonts/type1/pu
+blic/amsfonts/cm/cmex10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfont
+s/cm/cmmi12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.p
+fb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on report.pdf (20 pages, 408317 bytes).
 PDF statistics:
- 496 PDF objects out of 1000 (max. 8388607)
- 31 named destinations out of 1000 (max. 500000)
- 137 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 756 PDF objects out of 1000 (max. 8388607)
+ 76 named destinations out of 1000 (max. 500000)
+ 179 words of extra memory for PDF output out of 10000 (max. 10000000)
 
