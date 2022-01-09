@@ -23,6 +23,11 @@ Zhu~Zhemin, Bernhard~Delphine, Gurevych~Iryna. A Monolingual Tree-based
   Translation Model for Sentence Simplification.
 \newblock {С.}~1353--1361. URL:  https://aclanthology.org/C10-1152.
 
+\bibitem{shardlow_survey_2014}
+\selectlanguageifdefined{russian}
+Shardlow~Matthew. A Survey of Automated Text Simplification.
+\newblock Т.~4.
+
 \bibitem{sikka_survey_2020}
 \selectlanguageifdefined{russian}
 Sikka~Punardeep, Mago~Vijay. A Survey on Text Simplification. URL:
@@ -58,6 +63,43 @@ Evans~Richard, Orăsan~Constantin, Dornescu~Iustin. An evaluation of syntactic
 \newblock {С.}~607--617. URL:
   http://www.dialog-21.ru/media/5558/sakhovskiyaplusetal161.pdf.
 
+\bibitem{likert}
+\selectlanguageifdefined{russian}
+отв. ред. Г. В.~Осипов~Л. Н. Москвичев; уч.
+  секр. О. Е.~Чернощек. Косолапов М.С. Шкала
+  Лайкерта (Ликерта). Социологический
+  словарь~// М.: Академический учебно-научный
+  центр РАН-МГУ им. М.В. Ломоносова, НОРМА,
+  НИЦ ИНФРА М.
+\newblock 2015.
+\newblock {С.}~372--373.
+
+\bibitem{test}
+\selectlanguageifdefined{russian}
+Paasche-Orlow~Michael~K., Taylor~Holly~A., Brancati~Frederick~L. Readability
+  Standards for Informed-Consent Forms as Compared with Actual Readability.
+\newblock Т. 348, {№}~8.
+\newblock {С.}~721--726.
+\newblock Publisher: Massachusetts Medical Society \_eprint:
+  https://doi.org/10.1056/{NEJMsa}021212. URL:
+  https://doi.org/10.1056/NEJMsa021212.
+
+\bibitem{xu_optimizing_2016}
+\selectlanguageifdefined{russian}
+Optimizing Statistical Machine Translation for Text Simplification~/ Wei~Xu,
+  Courtney~Napoles, Ellie~Pavlick {[и~др.]}.
+\newblock Т.~4.
+\newblock {С.}~401--415. URL:  https://doi.org/10.1162/tacl\_a\_00107.
+
+\bibitem{sulem_semantic_2018}
+\selectlanguageifdefined{russian}
+Sulem~Elior, Abend~Omri, Rappoport~Ari. Semantic Structural Evaluation for Text
+  Simplification~// Proceedings of the 2018 Conference of the North American
+  Chapter of the Association for Computational Linguistics: Human Language
+  Technologies, Volume 1 (Long Papers).
+\newblock Association for Computational Linguistics.
+\newblock {С.}~685--696. URL:  https://aclanthology.org/N18-1063.
+
 \bibitem{see_get_2017}
 \selectlanguageifdefined{russian}
 See~Abigail, Liu~Peter~J., Manning~Christopher~D. Get To The Point:
@@ -71,11 +113,6 @@ See~Abigail, Liu~Peter~J., Manning~Christopher~D. Get To The Point:
 \selectlanguageifdefined{russian}
 A Survey on Lexical Simplification.
 \newblock Т.~60. URL:  https://www.jair.org/index.php/jair/article/view/11091.
-
-\bibitem{shardlow_survey_2014}
-\selectlanguageifdefined{russian}
-Shardlow~Matthew. A Survey of Automated Text Simplification.
-\newblock Т.~4.
 
 \bibitem{noauthor_nlp_nodate}
 \selectlanguageifdefined{russian}
@@ -128,6 +165,13 @@ Barlacchi~Gianni, Tonelli~Sara. {ERNESTA}: A Sentence Simplification Tool for
 \newblock Series Title: Lecture Notes in Computer Science. URL:
   http://link.springer.com/10.1007/978-3-642-37256-8\_39.
 
+\bibitem{alva}
+\selectlanguageifdefined{russian}
+Alva-Manchego~Fernando, Scarton~Carolina, Specia~Lucia. Data-Driven Sentence
+  Simplification: Survey and Benchmark.
+\newblock Т.~46, {№}~1.
+\newblock {С.}~135--187. URL:  https://doi.org/10.1162/coli\_a\_00370.
+
 \bibitem{aluisio_fostering_2010}
 \selectlanguageifdefined{russian}
 Aluísio~Sandra, Gasperin~Caroline. Fostering Digital Inclusion and
@@ -155,32 +199,10 @@ Zhang~Xingxing, Lapata~Mirella. Sentence Simplification with Deep Reinforcement
   Learning.
 \newblock {С.}~584--594. URL:  https://aclanthology.org/D17-1062.
 
-\bibitem{likert}
+\bibitem{devlin_bert_2019}
 \selectlanguageifdefined{russian}
-отв. ред. Г. В.~Осипов~Л. Н. Москвичев; уч.
-  секр. О. Е.~Чернощек. Косолапов М.С. Шкала
-  Лайкерта (Ликерта). Социологический
-  словарь~// М.: Академический учебно-научный
-  центр РАН-МГУ им. М.В. Ломоносова, НОРМА,
-  НИЦ ИНФРА М.
-\newblock 2015.
-\newblock {С.}~372--373.
-
-\bibitem{xu_optimizing_2016}
-\selectlanguageifdefined{russian}
-Optimizing Statistical Machine Translation for Text Simplification~/ Wei~Xu,
-  Courtney~Napoles, Ellie~Pavlick {[и~др.]}.
-\newblock Т.~4.
-\newblock {С.}~401--415. URL:  https://doi.org/10.1162/tacl\_a\_00107.
-
-\bibitem{test}
-\selectlanguageifdefined{russian}
-Paasche-Orlow~Michael~K., Taylor~Holly~A., Brancati~Frederick~L. Readability
-  Standards for Informed-Consent Forms as Compared with Actual Readability.
-\newblock Т. 348, {№}~8.
-\newblock {С.}~721--726.
-\newblock Publisher: Massachusetts Medical Society \_eprint:
-  https://doi.org/10.1056/{NEJMsa}021212. URL:
-  https://doi.org/10.1056/NEJMsa021212.
+{BERT}: Pre-training of Deep Bidirectional Transformers for Language
+  Understanding~/ Jacob~Devlin, Ming-Wei~Chang, Kenton~Lee {[и~др.]}.
+\newblock version: 2. URL:  http://arxiv.org/abs/1810.04805.
 
 \end{thebibliography}
