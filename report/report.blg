@@ -17,70 +17,49 @@ Reallocating 'name_of_file' (item size: 1) to 13 items.
 The style file: utf8gost705u.bst
 Reallocating 'name_of_file' (item size: 1) to 10 items.
 Database file #1: 51-biblio.bib
-Warning--empty journal in siddharthan_survey_2014
-Warning--empty journal in martin_muss_2021
-Warning--empty journal in zhu_monolingual_2010
-Warning--empty journal in shardlow_survey_2014
-Warning--empty journal in sikka_survey_2020
-Warning--empty journal in finegan_dollak_sentence_2016
-Warning--empty year in liu_simplification_2016
-Warning--empty journal in evans_evaluation_2014
-Warning--empty journal in kazan_federal_university
-Warning--empty journal in test
-Warning--empty journal in xu_optimizing_2016
 Warning--empty year in sulem_semantic_2018
 Warning--empty year in see_get_2017
-Warning--empty journal in paetzold_survey_2017
 Warning--empty journal in noauthor_nlp_nodate
-Warning--empty journal in rus_pas
-Warning--empty journal in siddharthan_syntactic_2006
-Warning--empty journal in jonnalagadda_biosimplify_2010
 Warning--empty journal in noauthor_svm_2017
-Warning--empty journal in alva
-Warning--empty year in aluisio_fostering_2010
-Warning--empty journal in deep
-Warning--empty journal in nisioi_exploring_2017
-Warning--empty journal in zhang_sentence_2017
-Warning--empty journal in devlin_bert_2019
 You've used 28 entries,
             2958 wiz_defined-function locations,
-            820 strings with 12381 characters,
-and the built_in function-call counts, 10100 in all, are:
-= -- 1465
-> -- 278
-< -- 31
-+ -- 91
-- -- 63
-* -- 502
-:= -- 1083
-add.period$ -- 106
+            836 strings with 11468 characters,
+and the built_in function-call counts, 10720 in all, are:
+= -- 1517
+> -- 294
+< -- 38
++ -- 95
+- -- 67
+* -- 503
+:= -- 1139
+add.period$ -- 107
 call.type$ -- 28
 change.case$ -- 0
 chr.to.int$ -- 0
-cite$ -- 53
-duplicate$ -- 445
-empty$ -- 888
-format.name$ -- 63
-if$ -- 2723
+cite$ -- 32
+duplicate$ -- 481
+empty$ -- 978
+format.name$ -- 67
+if$ -- 2934
 int.to.chr$ -- 0
 int.to.str$ -- 28
 missing$ -- 0
-newline$ -- 158
-num.names$ -- 71
-pop$ -- 297
+newline$ -- 179
+num.names$ -- 80
+pop$ -- 291
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 370
+skip$ -- 408
 stack$ -- 0
-substring$ -- 531
-swap$ -- 286
-text.length$ -- 8
+substring$ -- 536
+swap$ -- 329
+text.length$ -- 12
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
-warning$ -- 25
+warning$ -- 4
 while$ -- 76
 width$ -- 30
-write$ -- 400
-(There were 25 warnings)
+write$ -- 466
+(There were 4 warnings)

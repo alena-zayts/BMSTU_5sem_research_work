@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.6) (preloaded format=pdflatex 2021.9.4)  9 JAN 2022 16:02
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.6) (preloaded format=pdflatex 2021.9.4)  13 JAN 2022 00:03
 entering extended mode
 **./report.tex
 (report.tex
@@ -1332,25 +1332,15 @@ Overfull \hbox (14.90863pt too wide) in paragraph at lines 167--176
 \openout2 = `51-biblio.aux'.
 
  (51-biblio.tex (report.bbl
-Underfull \hbox (badness 10000) in paragraph at lines 38--43
-[]\T2A/cmr/m/n/14.4 Finegan-Dollak Catherine, Radev Dragomir R. Sentence
+Underfull \hbox (badness 1776) in paragraph at lines 51--58
+[]\T2A/cmr/m/n/14.4 Finegan-Dollak Catherine, Radev Dragomir. Sentence simplifi
+cation,
  []
 
 
-Underfull \hbox (badness 6141) in paragraph at lines 38--43
-\T2A/cmr/m/n/14.4 simplification, compression, and disaggregation for summariza
-tion
- []
-
-
-Underfull \hbox (badness 1253) in paragraph at lines 38--43
-\T2A/cmr/m/n/14.4 of sophisticated documents.  Т. 67, ќ 10.  С. 2437--2453. URL
-:
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 60--65
-\T2A/cmr/m/n/14.4 for Russian /  Kazan Federal University, Kazan, Russia,
+Underfull \hbox (badness 1735) in paragraph at lines 51--58
+\T2A/cmr/m/n/14.4 compression, and disaggregation for summarization of sophisti
+cated
  []
 
 [20
@@ -1359,101 +1349,60 @@ Underfull \hbox (badness 10000) in paragraph at lines 60--65
 
 
 ]
-Underfull \hbox (badness 1418) in paragraph at lines 79--86
-[]\T2A/cmr/m/n/14.4 Paasche-Orlow Michael K., Taylor Holly A., Brancati Frederi
-ck L.
+Underfull \hbox (badness 2772) in paragraph at lines 96--102
+\T2A/cmr/m/n/14.4 Standards for Informed-Consent Forms as Compared with Actual
  []
 
 
-Underfull \hbox (badness 1845) in paragraph at lines 96--102
-\T2A/cmr/m/n/14.4 for Text Simplification // Proceedings of the 2018 Conference
- of
- []
-
-
-Underfull \hbox (badness 5878) in paragraph at lines 96--102
-\T2A/cmr/m/n/14.4 Association for Computational Linguistics.  С. 685--696. URL:
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 114--116
-[]\T2A/cmr/m/n/14.4 A Survey on Lexical Simplification.  Т. 60. URL:
- []
-
-
-Overfull \hbox (32.11348pt too wide) in paragraph at lines 119--122
+Overfull \hbox (28.30905pt too wide) in paragraph at lines 140--144
 \T2A/cmr/m/n/14.4 https://pytorch.org/tutorials/intermediate/seq2seq_translatio
-n_tutorial.html. 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 125--129
-[]\T2A/cmr/m/n/14.4 Валгина Н.С., Ро-зен-таль Д.Э., Фо-ми-на М.И. Со-вре-мен-ны
-й
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 125--129
-\T2A/cmr/m/n/14.4 рус-ский язык: Учеб-ник / Под ре-дак-ци-ей Н.С. Вал. URL:
+n_tutorial.html
  []
 
 [21]
-Underfull \hbox (badness 1946) in paragraph at lines 145--151
-[]\T2A/cmr/m/n/14.4 Jonnalagadda Siddhartha, Gonzalez Graciela. BioSimplify: an
- open
+Underfull \hbox (badness 6428) in paragraph at lines 169--175
+\T2A/cmr/m/n/14.4 biomedical information extraction // AMIA Annual Symposium
  []
 
 
-Underfull \hbox (badness 1838) in paragraph at lines 145--151
-\T2A/cmr/m/n/14.4 biomedical information extraction.  Т. 2010.  С. 351--355. UR
-L:
- []
-
-
-Overfull \hbox (77.12688pt too wide) in paragraph at lines 145--151
-\T2A/cmr/m/n/14.4 http://www.scopus.com/inward/record.url?scp=84964959827&partn
-erID=8YFLogxK. 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 154--156
+Underfull \hbox (badness 10000) in paragraph at lines 178--181
 \T2A/cmr/m/n/14.4 https://www.analyticsvidhya.com/blog/2017/09/understaing-supp
 ort-
  []
 
 
-Underfull \hbox (badness 1817) in paragraph at lines 177--183
-[]\T2A/cmr/m/n/14.4 Alusio Sandra, Gasperin Caroline. Fostering Digital Inclu
-sion and
+Underfull \hbox (badness 2762) in paragraph at lines 192--197
+\T2A/cmr/m/n/14.4 Sentence Simplification: Survey and Benchmark // Computationa
+l
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 177--183
-\T2A/cmr/m/n/14.4 Workshop on Computational Approaches to Languages of the
+Underfull \hbox (badness 6268) in paragraph at lines 200--205
+[]\T2A/cmr/m/n/14.4 Aluisio Sandra, Gasperin Caroline. PorSimples: Simplificati
+on of
  []
 
 
-Underfull \hbox (badness 1552) in paragraph at lines 177--183
-\T2A/cmr/m/n/14.4 Americas.  Association for Computational Linguistics.  С. 46-
--53.
+Underfull \hbox (badness 3158) in paragraph at lines 200--205
+\T2A/cmr/m/n/14.4 Portuguese Texts Fostering Digital Inclusion and Accessibilit
+y //
  []
 
 
-Underfull \hbox (badness 6658) in paragraph at lines 186--189
+Underfull \hbox (badness 6658) in paragraph at lines 208--213
 []\T2A/cmr/m/n/14.4 A Review on Deep Learning Techniques Applied to Semantic
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 192--195
-[]\T2A/cmr/m/n/14.4 Exploring Neural Text Simplification Models / Sergiu Nisioi
-,
+Underfull \hbox (badness 1259) in paragraph at lines 223--228
+\T2A/cmr/m/n/14.4 Reinforcement Learning // Proceedings of the 2017 Conference 
+on
  []
 
 
-Underfull \hbox (badness 1762) in paragraph at lines 192--195
-\T2A/cmr/m/n/14.4 Sanja []Stajner, Simone Paolo Ponzetto [и др.].  С. 85--91. U
-RL:
+Underfull \hbox (badness 1325) in paragraph at lines 223--228
+\T2A/cmr/m/n/14.4 Empirical Methods in Natural Language Processing.  Copenhagen
+,
  []
 
 [22])) [23] (report.aux (01-contents.aux) (02-intro.aux) (10-analysis.aux)
@@ -1464,7 +1413,7 @@ Package rerunfilecheck Info: File `report.out' has not changed.
 Here is how much of TeX's memory you used:
  38024 strings out of 478864
  871950 string characters out of 2858518
- 1470252 words of memory out of 10000000
+ 1470250 words of memory out of 10000000
  55162 multiletter control sequences out of 15000+600000
  413779 words of font info for 45 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -1482,9 +1431,9 @@ ljfour/lh/lh-t2a/dpi600\labx1440.pk> <C:\Users\alena\AppData\Local\MiKTeX\fonts
 blic/amsfonts/cm/cmex10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfont
 s/cm/cmmi12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.p
 fb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on report.pdf (22 pages, 374805 bytes).
+Output written on report.pdf (22 pages, 373015 bytes).
 PDF statistics:
- 779 PDF objects out of 1000 (max. 8388607)
+ 774 PDF objects out of 1000 (max. 8388607)
  86 named destinations out of 1000 (max. 500000)
  187 words of extra memory for PDF output out of 10000 (max. 10000000)
 
