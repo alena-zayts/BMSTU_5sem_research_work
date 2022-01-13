@@ -5,24 +5,37 @@
 %\usepackage{pscyr} % Нормальные шрифты
 \usepackage{enumitem}
 
+
+
+
+\makeatletter
+\renewcommand\@biblabel[1]{#1.}
+\makeatother
+
+\usepackage{epstopdf}
+\usepackage{svg}
+
+\usepackage[14pt]{extsizes}
+
 \usepackage{caption}
 \captionsetup{labelsep=endash}
 \captionsetup[figure]{name={Рисунок}}
 
 \usepackage{amsmath}
+\usepackage{tikz}
 \usepackage{pdfpages}
-\usepackage{multirow}
+
 \usepackage{geometry}
 \geometry{left=30mm}
-\geometry{right=15mm}
+\geometry{right=10mm}
 \geometry{top=20mm}
 \geometry{bottom=20mm}
 
 \usepackage{titlesec}
 \titleformat{\section}
-	{\normalsize\bfseries}
-	{\thesection}
-	{1em}{}
+{\normalsize\bfseries}
+{\thesection}
+{1em}{}
 \titlespacing*{\chapter}{0pt}{-30pt}{8pt}
 \titlespacing*{\section}{\parindent}{*4}{*4}
 \titlespacing*{\subsection}{\parindent}{*4}{*4}
@@ -40,6 +53,23 @@
 \usepackage{listings}
 \usepackage{xcolor}
 
+% Для листинга кода:
+\lstset{ %
+	language=c++,   					% выбор языка для подсветки	
+	basicstyle=\small\sffamily,			% размер и начертание шрифта для подсветки кода
+	numbers=left,						% где поставить нумерацию строк (слева\справа)
+	%numberstyle=,					% размер шрифта для номеров строк
+	stepnumber=1,						% размер шага между двумя номерами строк
+	numbersep=5pt,						% как далеко отстоят номера строк от подсвечиваемого кода
+	frame=single,						% рисовать рамку вокруг кода
+	tabsize=4,							% размер табуляции по умолчанию равен 4 пробелам
+	captionpos=t,						% позиция заголовка вверху [t] или внизу [b]
+	breaklines=true,					
+	breakatwhitespace=true,				% переносить строки только если есть пробел
+	escapeinside={\#*}{*)},				% если нужно добавить комментарии в коде
+	backgroundcolor=\color{white},
+}
+
 \usepackage{pgfplots}
 \usetikzlibrary{datavisualization}
 \usetikzlibrary{datavisualization.formats.functions}
@@ -53,7 +83,7 @@
 	\end{figure}
 }
 \newcommand{\boximg}[3] {
-	\begin{figure}[h!]
+	\begin{figure}[h]
 		\center{\fbox{\includegraphics[height=#1]{inc/img/#2}}}
 		\caption{#3}
 		\label{img:#2}
@@ -67,29 +97,12 @@
 
 \usepackage{csvsimple}
 
-\usepackage{listings}
-\lstloadlanguages{[Visual]C++}
-% Для листинга кода:
-\lstset{ %
-	language=Python,                 
-	basicstyle=\small\sffamily, % размер и начертание шрифта для подсветки кода
-	numbers=left,               % где поставить нумерацию строк (слева\справа)
-	numberstyle=\tiny,           % размер шрифта для номеров строк
-	stepnumber=1,                   % размер шага между двумя номерами строк
-	numbersep=5pt,                % как далеко отстоят номера строк от подсвечиваемого кода
-	showspaces=false,            % показывать или нет пробел
-	showstringspaces=false,      % показывать или нет пробелы в строках
-	showtabs=false,             % показывать или нет табуляцию в строках
-	frame=single,              % рисовать рамку вокруг кода
-	tabsize=2,                 % размер табуляции по умолчанию равен 2 пробелам
-	captionpos=t,              % позиция заголовка вверху [t] или внизу [b] 
-	breaklines=true,           % автоматически переносить строки (да\нет)
-	breakatwhitespace=false, % переносить строки только если есть пробел
-	escapeinside={\#*}{*)}   % если нужно добавить комментарии в коде
-}
-
-\lstdefinestyle{sharpc}{language=[Sharp]C, frame=lr, rulecolor=\color{blue!80!black}}
-
 
 
 \newcommand{\code}[1]{\texttt{#1}}
+\usepackage{multirow}
+
+
+%\usepackage[nooneline]{caption} 
+%\captionsetup[table]{justification=raggedright} %\captionsetup[figure]{justification=centering,labelsep=endash}
+\captionsetup[table]{singlelinecheck=false, labelsep=endash}
