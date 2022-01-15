@@ -18,5 +18,5 @@
 \contentsline {subsubsection}{Статистический машинный перевод}{16}{subsubsection*.6}%
 \contentsline {subsubsection}{Использование методов глубокого обучения}{17}{subsubsection*.7}%
 \contentsline {section}{\numberline {2.5}Классификация}{19}{section.2.5}%
-\contentsline {chapter}{Выводы}{22}{chapter*.9}%
-\contentsline {chapter}{Список использованной литературы}{23}{chapter*.9}%
+\contentsline {chapter}{Выводы}{24}{chapter*.10}%
+\contentsline {chapter}{Список использованной литературы}{25}{chapter*.10}%

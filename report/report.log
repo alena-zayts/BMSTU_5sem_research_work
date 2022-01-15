@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.6) (preloaded format=pdflatex 2021.9.4)  15 JAN 2022 18:32
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.6) (preloaded format=pdflatex 2021.9.4)  15 JAN 2022 19:40
 entering extended mode
 **./report.tex
 (report.tex
@@ -1386,10 +1386,16 @@ Overfull \hbox (0.99448pt too wide) in paragraph at lines 181--182
 
 [20
 
-]) [21]
+] [21]
+Overfull \hbox (0.53903pt too wide) in paragraph at lines 256--257
+[]\T2A/cmr/m/n/14.4 ¬месте, в SARI, мы ис-поль-зу-ем сред-нее ариф-ме-ти-че-ско
+е точ-но-сти $\OML/cmm/m/it/14.4 P[]$
+ []
+
+[22]) [23]
 \openout2 = `50-conclusion.aux'.
 
- (50-conclusion.tex) [22
+ (50-conclusion.tex) [24
 
 
 
@@ -1421,7 +1427,7 @@ Underfull \hbox (badness 1466) in paragraph at lines 68--77
 а-ди-ми-ро-
  []
 
-[23
+[25
 
 
 
@@ -1443,7 +1449,7 @@ Overfull \hbox (10.27824pt too wide) in paragraph at lines 159--163
 n_tutorial.html
  []
 
-[24]
+[26]
 Underfull \hbox (badness 1048) in paragraph at lines 205--210
 []\T2A/cmr/m/n/14.4 Alva-Manchego Fernando, Scarton Carolina, Specia Lucia. Dat
 a-Driven
@@ -1473,25 +1479,25 @@ Underfull \hbox (badness 3635) in paragraph at lines 236--241
 on
  []
 
-[25]
+[27]
 Underfull \hbox (badness 1888) in paragraph at lines 244--247
 []\T2A/cmr/m/n/14.4 BERT: Pre-training of Deep Bidirectional Transformers for L
 anguage
  []
 
-)) [26] (report.aux (01-contents.aux) (02-intro.aux) (10-analysis.aux)
+)) [28] (report.aux (01-contents.aux) (02-intro.aux) (10-analysis.aux)
 (20-design.aux) (50-conclusion.aux) (51-biblio.aux))
 
 LaTeX Warning: There were undefined references.
 
 Package rerunfilecheck Info: File `report.out' has not changed.
-(rerunfilecheck)             Checksum: AE8F2AE274221DA777F6A93B2E0370E7;3441.
+(rerunfilecheck)             Checksum: 291AAEA1EF42CBD567D472027E7192F6;3443.
  ) 
 Here is how much of TeX's memory you used:
- 38826 strings out of 478864
- 889565 string characters out of 2858518
- 1339225 words of memory out of 10000000
- 55927 multiletter control sequences out of 15000+600000
+ 38842 strings out of 478864
+ 889741 string characters out of 2858518
+ 1339534 words of memory out of 10000000
+ 55934 multiletter control sequences out of 15000+600000
  413779 words of font info for 45 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  101i,16n,99p,1785b,609s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1507,11 +1513,12 @@ ljfour/lh/lh-t2a/dpi600\labx1440.pk> <C:\Users\alena\AppData\Local\MiKTeX\fonts
 /pk/ljfour/lh/lh-t2a/dpi600\labx2488.pk><C:/Program Files/MiKTeX/fonts/type1/pu
 blic/amsfonts/cm/cmex10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfont
 s/cm/cmmi10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.
-pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Progr
-am Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on report.pdf (25 pages, 331253 bytes).
+pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Progr
+am Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKT
+eX/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on report.pdf (27 pages, 351305 bytes).
 PDF statistics:
- 825 PDF objects out of 1000 (max. 8388607)
- 91 named destinations out of 1000 (max. 500000)
+ 846 PDF objects out of 1000 (max. 8388607)
+ 100 named destinations out of 1000 (max. 500000)
  187 words of extra memory for PDF output out of 10000 (max. 10000000)
 
