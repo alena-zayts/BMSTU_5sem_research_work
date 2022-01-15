@@ -17,48 +17,49 @@ Reallocating 'name_of_file' (item size: 1) to 13 items.
 The style file: utf8gost705u.bst
 Reallocating 'name_of_file' (item size: 1) to 10 items.
 Database file #1: 51-biblio.bib
-Warning--empty year in sulem_semantic_2018
 Warning--empty year in see_get_2017
 Warning--empty journal in noauthor_nlp_nodate
-You've used 29 entries,
+Warning--empty booktitle in saint_petersburg_russia_rusimscore_2021
+Warning--empty booktitle in ranepa_moscow_russia_sentence_2021
+You've used 31 entries,
             2958 wiz_defined-function locations,
-            846 strings with 11858 characters,
-and the built_in function-call counts, 11388 in all, are:
-= -- 1615
-> -- 323
-< -- 41
-+ -- 103
-- -- 74
-* -- 535
-:= -- 1207
-add.period$ -- 113
-call.type$ -- 29
+            858 strings with 12187 characters,
+and the built_in function-call counts, 12244 in all, are:
+= -- 1731
+> -- 337
+< -- 43
++ -- 108
+- -- 77
+* -- 577
+:= -- 1295
+add.period$ -- 122
+call.type$ -- 31
 change.case$ -- 0
 chr.to.int$ -- 0
-cite$ -- 32
-duplicate$ -- 507
-empty$ -- 1025
-format.name$ -- 74
-if$ -- 3121
+cite$ -- 35
+duplicate$ -- 547
+empty$ -- 1111
+format.name$ -- 77
+if$ -- 3352
 int.to.chr$ -- 0
-int.to.str$ -- 29
+int.to.str$ -- 31
 missing$ -- 0
-newline$ -- 188
-num.names$ -- 86
-pop$ -- 308
+newline$ -- 201
+num.names$ -- 92
+pop$ -- 328
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 439
+skip$ -- 473
 stack$ -- 0
-substring$ -- 562
-swap$ -- 355
+substring$ -- 626
+swap$ -- 383
 text.length$ -- 13
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
-warning$ -- 3
-while$ -- 81
-width$ -- 31
-write$ -- 493
-(There were 3 warnings)
+warning$ -- 4
+while$ -- 89
+width$ -- 33
+write$ -- 527
+(There were 4 warnings)

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.6) (preloaded format=pdflatex 2021.9.4)  15 JAN 2022 19:40
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.6) (preloaded format=pdflatex 2021.9.4)  15 JAN 2022 23:23
 entering extended mode
 **./report.tex
 (report.tex
@@ -1285,7 +1285,7 @@ Overfull \hbox (4.22672pt too wide) in paragraph at lines 28--29
 
 [5]
 Package keyval Info: pages undefined on input line 35.
-<./inc/img/graph.pdf, id=144, 505.89pt x 361.35pt>
+<./inc/img/graph.pdf, id=149, 505.89pt x 361.35pt>
 File: ./inc/img/graph.pdf Graphic file (type pdf)
 <use ./inc/img/graph.pdf>
 Package pdftex.def Info: ./inc/img/graph.pdf  used on input line 35.
@@ -1317,85 +1317,64 @@ utput \T2A/cmr/bx/n/14.4 a\T2A/cmr/m/n/14.4 gainst \T2A/cmr/bx/n/14.4 r\T2A/cmr
 sentence
  []
 
-
-Overfull \hbox (20.92699pt too wide) in paragraph at lines 33--34
+[9] [10] [11]
+Overfull \hbox (20.92699pt too wide) in paragraph at lines 111--112
 []\T2A/cmr/m/n/14.4 ћетрика SAMSA (\T2A/cmr/bx/n/14.4 s\T2A/cmr/m/n/14.4 implif
 ication \T2A/cmr/bx/n/14.4 a\T2A/cmr/m/n/14.4 utomatic evaluation \T2A/cmr/bx/n
 /14.4 m\T2A/cmr/m/n/14.4 easure through \T2A/cmr/bx/n/14.4 s\T2A/cmr/m/n/14.4 e
 mantic
  []
 
-[9]
-Overfull \hbox (0.79822pt too wide) in paragraph at lines 44--45
+[12]
+Overfull \hbox (0.79822pt too wide) in paragraph at lines 124--125
 []\T2A/cmr/m/n/14.4 »з дан-но-го вы-ше опре-де-ле-ни€ сле-ду-ет вы-вод, что упр
 о-ще-ние мож-но услов-
  []
 
-[10] [11] [12]
-Overfull \hbox (3.09326pt too wide) in paragraph at lines 86--87
+[13] [14] [15]
+Overfull \hbox (3.09326pt too wide) in paragraph at lines 166--167
 \T2A/cmr/m/n/14.4 ко-то-ра€ бра-ла ан-но-ти-ро-ван-ные кор-пу-са и изу-ча-ла во
 з-мож-ные прин-ци-пы упро-
  []
 
-[13] [14]
-Package keyval Info: pages undefined on input line 95.
-<./inc/img/3steps_my.pdf, id=273, 420.61137pt x 341.35529pt>
+[16]
+Package keyval Info: pages undefined on input line 175.
+<./inc/img/3steps_my.pdf, id=300, 420.61137pt x 341.35529pt>
 File: ./inc/img/3steps_my.pdf Graphic file (type pdf)
 <use ./inc/img/3steps_my.pdf>
-Package pdftex.def Info: ./inc/img/3steps_my.pdf  used on input line 95.
+Package pdftex.def Info: ./inc/img/3steps_my.pdf  used on input line 175.
 (pdftex.def)             Requested size: 378.54674pt x 307.2169pt.
- [15
+ [17
 
- <./inc/img/3steps_my.pdf>] [16]
-Overfull \hbox (7.26491pt too wide) in paragraph at lines 138--139
-\T2A/cmr/m/n/14.4 крат-но-го вы-пол-не-ни€ за-дач и на-строй-ки мо-де-ли дл€ ул
-уч-ше-ни€ результата[[]]. 
- []
-
-
-Overfull \hbox (24.03714pt too wide) in paragraph at lines 142--143
+ <./inc/img/3steps_my.pdf>] [18]
+Overfull \hbox (24.03714pt too wide) in paragraph at lines 222--223
 []\T2A/cmr/m/n/14.4 ¬о-первых, это неточ-ность ре-зуль-та-та. Ёф-фек-тив-ность 
 мо-де-лей кодировщика-
  []
 
-[17]
-Overfull \hbox (7.19255pt too wide) in paragraph at lines 152--153
+[19]
+Overfull \hbox (7.19255pt too wide) in paragraph at lines 232--233
 []\T2A/cmr/m/n/14.4 “ак, в рам-ках упо-м€-ну-той в преды-ду-щем раз-де-ле кон-ф
 е-рен-ции DIALOGUE
  []
 
-[18]
-
-Package caption Warning: \label without proper reference on input line 165.
-See the caption package documentation for explanation.
-
-
-LaTeX Warning: Reference `tabular:compare' on page 19 undefined on input line 1
-58.
-
-[19]
-Overfull \hbox (2.2068pt too wide) in paragraph at lines 166--175
-[] 
+[20] [21]
+Overfull \hbox (2.2068pt too wide) in paragraph at lines 247--256
+[][] 
  []
 
+[22
 
-Overfull \hbox (0.99448pt too wide) in paragraph at lines 181--182
+]
+Overfull \hbox (0.99448pt too wide) in paragraph at lines 278--279
 []\T2A/cmr/m/n/14.4 “аким об-ра-зом, ре-ше-ни€, ис-поль-зу-ю-щие глу-бо-кое обу
 -че-ние, €в-л€-ют-с€ наи-
  []
 
-[20
-
-] [21]
-Overfull \hbox (0.53903pt too wide) in paragraph at lines 256--257
-[]\T2A/cmr/m/n/14.4 ¬месте, в SARI, мы ис-поль-зу-ем сред-нее ариф-ме-ти-че-ско
-е точ-но-сти $\OML/cmm/m/it/14.4 P[]$
- []
-
-[22]) [23]
+[23]) [24]
 \openout2 = `50-conclusion.aux'.
 
- (50-conclusion.tex) [24
+ (50-conclusion.tex) [25
 
 
 
@@ -1427,7 +1406,7 @@ Underfull \hbox (badness 1466) in paragraph at lines 68--77
 а-ди-ми-ро-
  []
 
-[25
+[26
 
 
 
@@ -1449,7 +1428,7 @@ Overfull \hbox (10.27824pt too wide) in paragraph at lines 159--163
 n_tutorial.html
  []
 
-[26]
+[27]
 Underfull \hbox (badness 1048) in paragraph at lines 205--210
 []\T2A/cmr/m/n/14.4 Alva-Manchego Fernando, Scarton Carolina, Specia Lucia. Dat
 a-Driven
@@ -1479,25 +1458,22 @@ Underfull \hbox (badness 3635) in paragraph at lines 236--241
 on
  []
 
-[27]
-Underfull \hbox (badness 1888) in paragraph at lines 244--247
+[28]
+Underfull \hbox (badness 1888) in paragraph at lines 244--248
 []\T2A/cmr/m/n/14.4 BERT: Pre-training of Deep Bidirectional Transformers for L
 anguage
  []
 
-)) [28] (report.aux (01-contents.aux) (02-intro.aux) (10-analysis.aux)
+)) [29] (report.aux (01-contents.aux) (02-intro.aux) (10-analysis.aux)
 (20-design.aux) (50-conclusion.aux) (51-biblio.aux))
-
-LaTeX Warning: There were undefined references.
-
 Package rerunfilecheck Info: File `report.out' has not changed.
-(rerunfilecheck)             Checksum: 291AAEA1EF42CBD567D472027E7192F6;3443.
+(rerunfilecheck)             Checksum: FBBACA8CCB004B43704E6270BECD3848;3698.
  ) 
 Here is how much of TeX's memory you used:
- 38842 strings out of 478864
- 889741 string characters out of 2858518
- 1339534 words of memory out of 10000000
- 55934 multiletter control sequences out of 15000+600000
+ 38851 strings out of 478864
+ 889954 string characters out of 2858518
+ 1337793 words of memory out of 10000000
+ 55938 multiletter control sequences out of 15000+600000
  413779 words of font info for 45 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  101i,16n,99p,1785b,609s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1516,9 +1492,9 @@ s/cm/cmmi10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.
 pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Progr
 am Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKT
 eX/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on report.pdf (27 pages, 351305 bytes).
+Output written on report.pdf (28 pages, 365349 bytes).
 PDF statistics:
- 846 PDF objects out of 1000 (max. 8388607)
- 100 named destinations out of 1000 (max. 500000)
- 187 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 866 PDF objects out of 1000 (max. 8388607)
+ 105 named destinations out of 1000 (max. 500000)
+ 195 words of extra memory for PDF output out of 10000 (max. 10000000)
 

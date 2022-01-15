@@ -134,7 +134,7 @@ Sulem~Elior, Abend~Omri, Rappoport~Ari. Semantic Structural Evaluation for Text
   Simplification~// Proceedings of the 2018 Conference of the North American
   Chapter of the Association for Computational Linguistics: Human Language
   Technologies, Volume 1 (Long Papers).
-\newblock Association for Computational Linguistics.
+\newblock Association for Computational Linguistics, 2018.
 \newblock {С.}~685--696.
 
 \bibitem{see_get_2017}
@@ -244,5 +244,19 @@ Zhang~Xingxing, Lapata~Mirella. Sentence Simplification with Deep Reinforcement
 {BERT}: Pre-training of Deep Bidirectional Transformers for Language
   Understanding~/ Jacob~Devlin, Ming-Wei~Chang, Kenton~Lee {[и~др.]}~//
   arXiv preprint arXiv:1810.04805.
+\newblock 2019.  05.
+
+\bibitem{saint_petersburg_russia_rusimscore_2021}
+\selectlanguageifdefined{russian}
+Orzhenovskii~Mikhail. {RuSimScore}: unsupervised scoring function for Russian
+  sentence simplification quality.
+\newblock 2021.  06.
+\newblock {С.}~524--532.
+
+\bibitem{ranepa_moscow_russia_sentence_2021}
+\selectlanguageifdefined{russian}
+Shatilov~A.~A., Rey~A.~I. Sentence simplification with {ruGPT}3.
+\newblock 2021.  06.
+\newblock {С.}~618--625.
 
 \end{thebibliography}
