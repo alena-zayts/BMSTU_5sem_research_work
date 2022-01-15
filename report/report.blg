@@ -20,46 +20,45 @@ Database file #1: 51-biblio.bib
 Warning--empty year in sulem_semantic_2018
 Warning--empty year in see_get_2017
 Warning--empty journal in noauthor_nlp_nodate
-Warning--empty journal in noauthor_svm_2017
-You've used 28 entries,
+You've used 29 entries,
             2958 wiz_defined-function locations,
-            836 strings with 11468 characters,
-and the built_in function-call counts, 10720 in all, are:
-= -- 1517
-> -- 294
-< -- 38
-+ -- 95
-- -- 67
-* -- 503
-:= -- 1139
-add.period$ -- 107
-call.type$ -- 28
+            846 strings with 11858 characters,
+and the built_in function-call counts, 11388 in all, are:
+= -- 1615
+> -- 323
+< -- 41
++ -- 103
+- -- 74
+* -- 535
+:= -- 1207
+add.period$ -- 113
+call.type$ -- 29
 change.case$ -- 0
 chr.to.int$ -- 0
 cite$ -- 32
-duplicate$ -- 481
-empty$ -- 978
-format.name$ -- 67
-if$ -- 2934
+duplicate$ -- 507
+empty$ -- 1025
+format.name$ -- 74
+if$ -- 3121
 int.to.chr$ -- 0
-int.to.str$ -- 28
+int.to.str$ -- 29
 missing$ -- 0
-newline$ -- 179
-num.names$ -- 80
-pop$ -- 291
+newline$ -- 188
+num.names$ -- 86
+pop$ -- 308
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 408
+skip$ -- 439
 stack$ -- 0
-substring$ -- 536
-swap$ -- 329
-text.length$ -- 12
+substring$ -- 562
+swap$ -- 355
+text.length$ -- 13
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
-warning$ -- 4
-while$ -- 76
-width$ -- 30
-write$ -- 466
-(There were 4 warnings)
+warning$ -- 3
+while$ -- 81
+width$ -- 31
+write$ -- 493
+(There were 3 warnings)

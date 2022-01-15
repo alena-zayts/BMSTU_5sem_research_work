@@ -7,55 +7,6 @@
 \ifx\undefined\BibAnnote\long\def\BibAnnote#1{(#1)}\else\fi
 \ifx\undefined\BibEmph\def\BibEmph#1{\emph{#1}}\else\fi
 
-\bibitem{siddharthan_survey_2014}
-\selectlanguageifdefined{russian}
-Siddharthan~Advaith. A survey of research on text simplification~// ITL –
-  International Journal of Applied Linguistics.
-\newblock 2014.
-\newblock Т. 165.
-\newblock {С.}~259--298.
-
-\bibitem{martin_muss_2021}
-\selectlanguageifdefined{english}
-MUSS: Multilingual Unsupervised Sentence Simplification by Mining Paraphrases~/
-  L.~Martin, A.~Fan, ~Éric de~la~Clergerie et~al.~// arXiv preprint
-  arXiv:2005.00352.
-\newblock 2021.
-
-\bibitem{zhu_monolingual_2010}
-\selectlanguageifdefined{russian}
-Zhu~Zhemin, Bernhard~Delphine, Gurevych~Iryna. A Monolingual Tree-based
-  Translation Model for Sentence Simplification~// Coling 2010 - 23rd
-  International Conference on Computational Linguistics, Proceedings of the
-  Conference.
-\newblock 2010.  08.
-\newblock Т.~2.
-\newblock {С.}~1353--1361.
-
-\bibitem{shardlow_survey_2014}
-\selectlanguageifdefined{russian}
-Shardlow~Matthew. A Survey of Automated Text Simplification~// International
-  Journal of Advanced Computer Science and Applications.
-\newblock 2014.  01.
-\newblock Т.~4.
-
-\bibitem{sikka_survey_2020}
-\selectlanguageifdefined{russian}
-Sikka~Punardeep, Mago~Vijay. A Survey on Text Simplification~// arXiv preprint
-  arXiv:2008.08612.
-\newblock 2020.  08.
-\newblock {С.}~1--15.
-
-\bibitem{finegan_dollak_sentence_2016}
-\selectlanguageifdefined{russian}
-Finegan‐Dollak~Catherine, Radev~Dragomir. Sentence simplification,
-  compression, and disaggregation for summarization of sophisticated
-  documents~// Journal of the Association for Information Science and
-  Technology.
-\newblock 2015.  10.
-\newblock Т.~67.
-\newblock {С.}~2437--2453.
-
 \bibitem{liu_simplification_2016}
 \selectlanguageifdefined{russian}
 Liu~Jun, Matsumoto~Yuji. Simplification of Example Sentences for Learners of
@@ -72,6 +23,74 @@ Evans~Richard, Orăsan~Constantin, Dornescu~Iustin. An evaluation of syntactic
   Populations ({PITR}).
 \newblock Association for Computational Linguistics, 2014.  04.
 \newblock {С.}~131--140.
+
+\bibitem{finegan_dollak_sentence_2016}
+\selectlanguageifdefined{russian}
+Finegan‐Dollak~Catherine, Radev~Dragomir. Sentence simplification,
+  compression, and disaggregation for summarization of sophisticated
+  documents~// Journal of the Association for Information Science and
+  Technology.
+\newblock 2015.  10.
+\newblock Т.~67.
+\newblock {С.}~2437--2453.
+
+\bibitem{shardlow_survey_2014}
+\selectlanguageifdefined{russian}
+Shardlow~Matthew. A Survey of Automated Text Simplification~// International
+  Journal of Advanced Computer Science and Applications.
+\newblock 2014.  01.
+\newblock Т.~4.
+
+\bibitem{siddharthan_survey_2014}
+\selectlanguageifdefined{russian}
+Siddharthan~Advaith. A survey of research on text simplification~// ITL –
+  International Journal of Applied Linguistics.
+\newblock 2014.
+\newblock Т. 165.
+\newblock {С.}~259--298.
+
+\bibitem{martin_muss_2021}
+\selectlanguageifdefined{english}
+MUSS: Multilingual Unsupervised Sentence Simplification by Mining Paraphrases~/
+  L.~Martin, A.~Fan, ~Éric de~la~Clergerie et~al.~// arXiv preprint
+  arXiv:2005.00352.
+\newblock 2021.
+
+\bibitem{diff}
+\selectlanguageifdefined{russian}
+Fisher~Douglas, Frey~Nancy, Lapp~Diane. Text Complexity: Raising Rigor in
+  Reading.
+\newblock Newark, DE: International Reading Association., 2012.
+\newblock {с.}~212.
+
+\bibitem{2parts}
+\selectlanguageifdefined{russian}
+Лингвистическая сложность учебных
+  текстов~/ Александра~Яковлевна~Вахрушева,
+  Марина~Ивановна~Солнышкина,
+  Роман~Владимирович~Куприянов {[и~др.]}~//
+  Вопросы журналистики, педагогики,
+  языкознания.
+\newblock 2021.  апр.
+\newblock Т.~40, {№}~1.
+\newblock {С.}~89--99.
+
+\bibitem{zhu_monolingual_2010}
+\selectlanguageifdefined{russian}
+Zhu~Zhemin, Bernhard~Delphine, Gurevych~Iryna. A Monolingual Tree-based
+  Translation Model for Sentence Simplification~// Coling 2010 - 23rd
+  International Conference on Computational Linguistics, Proceedings of the
+  Conference.
+\newblock 2010.  08.
+\newblock Т.~2.
+\newblock {С.}~1353--1361.
+
+\bibitem{sikka_survey_2020}
+\selectlanguageifdefined{russian}
+Sikka~Punardeep, Mago~Vijay. A Survey on Text Simplification~// arXiv preprint
+  arXiv:2008.08612.
+\newblock 2020.  08.
+\newblock {С.}~1--15.
 
 \bibitem{kazan_federal_university}
 \selectlanguageifdefined{russian}
@@ -172,12 +191,6 @@ Jonnalagadda~Siddhartha~R., Gonzalez~Graciela. BioSimplify: an open source
 \newblock 2010.
 \newblock Т. 2010.
 \newblock {С.}~351--5.
-
-\bibitem{noauthor_svm_2017}
-\selectlanguageifdefined{russian}
-{SVM} {\textbar} Support Vector Machine Algorithm in Machine Learning. URL:
-  https://www.analyticsvidhya.com/blog/2017/09/understaing-support-vector-machine-example-code/
-  (Дата обращения: 05-01-2022).
 
 \bibitem{hutchison_ernesta_2013}
 \selectlanguageifdefined{russian}
