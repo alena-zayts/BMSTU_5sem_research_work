@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.6) (preloaded format=pdflatex 2021.9.4)  15 JAN 2022 23:23
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.6) (preloaded format=pdflatex 2021.9.4)  17 JAN 2022 15:47
 entering extended mode
 **./report.tex
 (report.tex
@@ -1283,26 +1283,23 @@ Overfull \hbox (4.22672pt too wide) in paragraph at lines 28--29
 о-ван-ных тек-сто-вых дан-
  []
 
-[5]
 Package keyval Info: pages undefined on input line 35.
-<./inc/img/graph.pdf, id=149, 505.89pt x 361.35pt>
+<./inc/img/graph.pdf, id=144, 505.89pt x 361.35pt>
 File: ./inc/img/graph.pdf Graphic file (type pdf)
 <use ./inc/img/graph.pdf>
 Package pdftex.def Info: ./inc/img/graph.pdf  used on input line 35.
-(pdftex.def)             Requested size: 455.29678pt x 325.21199pt.
- [6
-
- <./inc/img/graph.pdf>]
+(pdftex.def)             Requested size: 404.71254pt x 289.0804pt.
+[5 <./inc/img/graph.pdf>]
 LaTeX Font Info:    Trying to load font information for T2A+cmtt on input line 
 64.
 
 (C:\Users\alena\AppData\Roaming\MiKTeX\tex/latex/cyrillic\t2acmtt.fd
 File: t2acmtt.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
-)) [7]
+)) [6]
+[7]
 \openout2 = `20-design.aux'.
 
-
-(20-design.tex
+ (20-design.tex
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 2.
 [8
 
@@ -1310,15 +1307,15 @@ File: t2acmtt.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
 
 
 ]
-Overfull \hbox (12.03085pt too wide) in paragraph at lines 25--26
+Overfull \hbox (15.83528pt too wide) in paragraph at lines 25--26
 []\T2A/cmr/m/n/14.4 Метрика SARI (\T2A/cmr/bx/n/14.4 s\T2A/cmr/m/n/14.4 ystem o
 utput \T2A/cmr/bx/n/14.4 a\T2A/cmr/m/n/14.4 gainst \T2A/cmr/bx/n/14.4 r\T2A/cmr
 /m/n/14.4 eferences and against the \T2A/cmr/bx/n/14.4 i\T2A/cmr/m/n/14.4 nput 
-sentence
+sentence,
  []
 
 [9] [10] [11]
-Overfull \hbox (20.92699pt too wide) in paragraph at lines 111--112
+Overfull \hbox (20.92699pt too wide) in paragraph at lines 112--113
 []\T2A/cmr/m/n/14.4 Метрика SAMSA (\T2A/cmr/bx/n/14.4 s\T2A/cmr/m/n/14.4 implif
 ication \T2A/cmr/bx/n/14.4 a\T2A/cmr/m/n/14.4 utomatic evaluation \T2A/cmr/bx/n
 /14.4 m\T2A/cmr/m/n/14.4 easure through \T2A/cmr/bx/n/14.4 s\T2A/cmr/m/n/14.4 e
@@ -1326,27 +1323,24 @@ mantic
  []
 
 [12]
-Overfull \hbox (0.79822pt too wide) in paragraph at lines 124--125
+Overfull \hbox (0.79822pt too wide) in paragraph at lines 125--126
 []\T2A/cmr/m/n/14.4 Из дан-но-го вы-ше опре-де-ле-ния сле-ду-ет вы-вод, что упр
 о-ще-ние мож-но услов-
  []
 
 [13] [14] [15]
-Overfull \hbox (3.09326pt too wide) in paragraph at lines 166--167
+Overfull \hbox (3.09326pt too wide) in paragraph at lines 167--168
 \T2A/cmr/m/n/14.4 ко-то-рая бра-ла ан-но-ти-ро-ван-ные кор-пу-са и изу-ча-ла во
 з-мож-ные прин-ци-пы упро-
  []
 
-[16]
-Package keyval Info: pages undefined on input line 175.
-<./inc/img/3steps_my.pdf, id=300, 420.61137pt x 341.35529pt>
-File: ./inc/img/3steps_my.pdf Graphic file (type pdf)
-<use ./inc/img/3steps_my.pdf>
-Package pdftex.def Info: ./inc/img/3steps_my.pdf  used on input line 175.
-(pdftex.def)             Requested size: 378.54674pt x 307.2169pt.
- [17
-
- <./inc/img/3steps_my.pdf>] [18]
+Package keyval Info: pages undefined on input line 178.
+<./inc/img/3steps_my_new.pdf, id=290, 420.61137pt x 277.035pt>
+File: ./inc/img/3steps_my_new.pdf Graphic file (type pdf)
+<use ./inc/img/3steps_my_new.pdf>
+Package pdftex.def Info: ./inc/img/3steps_my_new.pdf  used on input line 178.
+(pdftex.def)             Requested size: 378.54674pt x 249.3292pt.
+[16 <./inc/img/3steps_my_new.pdf>] [17] [18]
 Overfull \hbox (24.03714pt too wide) in paragraph at lines 222--223
 []\T2A/cmr/m/n/14.4 Во-первых, это неточ-ность ре-зуль-та-та. Эф-фек-тив-ность 
 мо-де-лей кодировщика-
@@ -1358,23 +1352,21 @@ Overfull \hbox (7.19255pt too wide) in paragraph at lines 232--233
 е-рен-ции DIALOGUE
  []
 
-[20] [21]
-Overfull \hbox (2.2068pt too wide) in paragraph at lines 247--256
-[][] 
+
+Overfull \hbox (2.2068pt too wide) in paragraph at lines 246--255
+ [][] 
  []
 
-[22
-
-]
+[20] [21]
 Overfull \hbox (0.99448pt too wide) in paragraph at lines 278--279
 []\T2A/cmr/m/n/14.4 Таким об-ра-зом, ре-ше-ния, ис-поль-зу-ю-щие глу-бо-кое обу
 -че-ние, яв-ля-ют-ся наи-
  []
 
-[23]) [24]
+[22]) [23]
 \openout2 = `50-conclusion.aux'.
 
- (50-conclusion.tex) [25
+ (50-conclusion.tex) [24
 
 
 
@@ -1383,100 +1375,62 @@ Overfull \hbox (0.99448pt too wide) in paragraph at lines 278--279
 \openout2 = `51-biblio.aux'.
 
  (51-biblio.tex (report.bbl
-Underfull \hbox (badness 7326) in paragraph at lines 29--36
-[]\T2A/cmr/m/n/14.4 Finegan-Dollak Catherine, Radev Dragomir. Sentence simplifi
-cation,
- []
-
-
-Underfull \hbox (badness 5954) in paragraph at lines 29--36
-\T2A/cmr/m/n/14.4 compression, and disaggregation for summarization of sophisti
-cated
- []
-
-
-Underfull \hbox (badness 3039) in paragraph at lines 39--43
-[]\T2A/cmr/m/n/14.4 Shardlow Matthew. A Survey of Automated Text Simplification
- //
- []
-
-
-Underfull \hbox (badness 1466) in paragraph at lines 68--77
+Underfull \hbox (badness 1466) in paragraph at lines 65--74
 \T2A/cmr/m/n/14.4 на Вах-ру-ше-ва, Ма-ри-на Ива-нов-на Сол-ныш-ки-на, Ро-ман Вл
 а-ди-ми-ро-
  []
 
-[26
+[25
 
 
 
 
 ]
-Underfull \hbox (badness 2671) in paragraph at lines 115--121
-[]\T2A/cmr/m/n/14.4 Paasche-Orlow Michael, Taylor Holly, Brancati Frederick. Re
-adability
+Underfull \hbox (badness 1824) in paragraph at lines 111--117
+[]\T2A/cmr/m/n/14.4 Paasche-Orlow M., Tay-lor H., Bran-cati F. Read-abil-i-ty S
+tan-dards for
  []
 
 
-Underfull \hbox (badness 7151) in paragraph at lines 115--121
-\T2A/cmr/m/n/14.4 Standards for Informed-Consent Forms as Compared with Actual
+Underfull \hbox (badness 10000) in paragraph at lines 154--159
+[]\T2A/cmr/m/n/14.4 NLP From Scratch: Translation with a Sequence to Sequence
  []
 
 
-Overfull \hbox (10.27824pt too wide) in paragraph at lines 159--163
+Underfull \hbox (badness 10000) in paragraph at lines 154--159
+\T2A/cmr/m/n/14.4 Network and Attention  PyTorch Tutorials 1.10.1+cu102
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 154--159
+\T2A/cmr/m/n/14.4 documentation [Элек-трон-ный ре-сурс]. - Ре-жим до-сту-па:
+ []
+
+
+Overfull \hbox (10.27824pt too wide) in paragraph at lines 154--159
 \T2A/cmr/m/n/14.4 https://pytorch.org/tutorials/intermediate/seq2seq_translatio
 n_tutorial.html
  []
 
-[27]
-Underfull \hbox (badness 1048) in paragraph at lines 205--210
-[]\T2A/cmr/m/n/14.4 Alva-Manchego Fernando, Scarton Carolina, Specia Lucia. Dat
-a-Driven
- []
-
-
-Underfull \hbox (badness 8151) in paragraph at lines 205--210
-\T2A/cmr/m/n/14.4 Sentence Simplification: Survey and Benchmark // Computationa
-l
- []
-
-
-Underfull \hbox (badness 1769) in paragraph at lines 213--218
-\T2A/cmr/m/n/14.4 Texts Fostering Digital Inclusion and Accessibility // Procee
-dings of
- []
-
-
-Underfull \hbox (badness 3525) in paragraph at lines 236--241
-[]\T2A/cmr/m/n/14.4 Zhang Xingxing, Lapata Mirella. Sentence Simplification wit
-h Deep
- []
-
-
-Underfull \hbox (badness 3635) in paragraph at lines 236--241
-\T2A/cmr/m/n/14.4 Reinforcement Learning // Proceedings of the 2017 Conference 
-on
- []
-
-[28]
-Underfull \hbox (badness 1888) in paragraph at lines 244--248
-[]\T2A/cmr/m/n/14.4 BERT: Pre-training of Deep Bidirectional Transformers for L
-anguage
- []
-
-)) [29] (report.aux (01-contents.aux) (02-intro.aux) (10-analysis.aux)
+[26] [27])) [28] (report.aux (01-contents.aux) (02-intro.aux) (10-analysis.aux)
 (20-design.aux) (50-conclusion.aux) (51-biblio.aux))
-Package rerunfilecheck Info: File `report.out' has not changed.
-(rerunfilecheck)             Checksum: FBBACA8CCB004B43704E6270BECD3848;3698.
+
+Package rerunfilecheck Warning: File `report.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `report.out':
+(rerunfilecheck)             Before: FBBACA8CCB004B43704E6270BECD3848;3698
+(rerunfilecheck)             After:  3DB3DA34588AB41731CA7D6F9C639877;3730.
  ) 
 Here is how much of TeX's memory you used:
- 38851 strings out of 478864
- 889954 string characters out of 2858518
+ 38850 strings out of 478864
+ 889975 string characters out of 2858518
  1337793 words of memory out of 10000000
  55938 multiletter control sequences out of 15000+600000
  413779 words of font info for 45 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 101i,16n,99p,1785b,609s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 101i,17n,99p,1786b,609s stack positions out of 5000i,500n,10000p,200000b,80000s
  <C:\Users\alena\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx17
 28.pk> <C:\Users\alena\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\la
 tt1000.pk> <C:\Users\alena\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi60
@@ -1492,9 +1446,9 @@ s/cm/cmmi10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.
 pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Progr
 am Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKT
 eX/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on report.pdf (28 pages, 365349 bytes).
+Output written on report.pdf (27 pages, 363293 bytes).
 PDF statistics:
- 866 PDF objects out of 1000 (max. 8388607)
- 105 named destinations out of 1000 (max. 500000)
+ 859 PDF objects out of 1000 (max. 8388607)
+ 104 named destinations out of 1000 (max. 500000)
  195 words of extra memory for PDF output out of 10000 (max. 10000000)
 
