@@ -1,0 +1,258 @@
+\begin{thebibliography}{10}
+\def\selectlanguageifdefined#1{
+\expandafter\ifx\csname date#1\endcsname\relax
+\else\language\csname l@#1\endcsname\fi}
+\ifx\undefined\url\def\url#1{{\small #1}}\else\fi
+\ifx\undefined\BibUrl\def\BibUrl#1{\url{#1}}\else\fi
+\ifx\undefined\BibAnnote\long\def\BibAnnote#1{(#1)}\else\fi
+\ifx\undefined\BibEmph\def\BibEmph#1{\emph{#1}}\else\fi
+
+\bibitem{liu_simplification_2016}
+\selectlanguageifdefined{english}
+Liu~J., Matsumoto~Y. Simplification of Example Sentences for Learners of
+  Japanese Functional Expressions~// Proceedings of the 3rd Workshop on Natural
+  Language Processing Techniques for Educational Applications.
+\newblock 2016.  February.
+\newblock P.~1--5.
+
+\bibitem{evans_evaluation_2014}
+\selectlanguageifdefined{english}
+Evans~R., Orasan~C., Dornescu~I. An evaluation of syntactic simplification
+  rules for people with autism~// Proceedings of the 3rd Workshop on Predicting
+  and Improving Text Readability for Target Reader Populations.
+\newblock Association for Computational Linguistics, 2014.  April.
+\newblock P.~131--140.
+
+\bibitem{finegan_dollak_sentence_2016}
+\selectlanguageifdefined{english}
+Finegan‐Dollak~C., Radev~D. Sentence simplification, compression, and
+  disaggregation for summarization of sophisticated documents~// Journal of the
+  Association for Information Science and Technology.
+\newblock 2015.  October.
+\newblock Vol.~67.
+\newblock P.~2437--2453.
+
+\bibitem{shardlow_survey_2014}
+\selectlanguageifdefined{english}
+Shardlow~M. A Survey of Automated Text Simplification~// International Journal
+  of Advanced Computer Science and Applications.
+\newblock 2014.  January.
+\newblock Vol.~4.
+
+\bibitem{siddharthan_survey_2014}
+\selectlanguageifdefined{english}
+Siddharthan~A. A survey of research on text simplification~// ITL –
+  International Journal of Applied Linguistics.
+\newblock 2014.
+\newblock Vol. 165.
+\newblock P.~259--298.
+
+\bibitem{martin_muss_2021}
+\selectlanguageifdefined{english}
+MUSS: Multilingual Unsupervised Sentence Simplification by Mining Paraphrases~/
+  L.~Martin, A.~Fan, E.~de~la~Clergerie et~al.~// arXiv preprint
+  arXiv:2005.00352.
+\newblock 2021.
+
+\bibitem{diff}
+\selectlanguageifdefined{english}
+Fisher~D., Frey~N., Lapp~D. Text Complexity: Raising Rigor in Reading.
+\newblock Newark, DE: International Reading Association, 2012.
+\newblock p.~212.
+
+\bibitem{2parts}
+\selectlanguageifdefined{russian}
+Лингвистическая сложность учебных
+  текстов~/ Александра~Яковлевна~Вахрушева,
+  Марина~Ивановна~Солнышкина,
+  Роман~Владимирович~Куприянов {[и~др.]}~//
+  Вопросы журналистики, педагогики,
+  языкознания.
+\newblock 2021.  Апрель.
+\newblock Т.~40, {№}~1.
+\newblock {С.}~89--99.
+
+\bibitem{zhu_monolingual_2010}
+\selectlanguageifdefined{english}
+Zhu~Z., Bernhard~D., Gurevych~I. A Monolingual Tree-based Translation Model for
+  Sentence Simplification~// Coling 2010 - 23rd International Conference on
+  Computational Linguistics, Proceedings of the Conference.
+\newblock 2010.  August.
+\newblock Vol.~2.
+\newblock P.~1353--1361.
+
+\bibitem{sikka_survey_2020}
+\selectlanguageifdefined{english}
+Sikka~P., Mago~V. A Survey on Text Simplification~// arXiv preprint
+  arXiv:2008.08612.
+\newblock 2020.  August.
+\newblock P.~1--15.
+
+\bibitem{kazan_federal_university}
+\selectlanguageifdefined{english}
+RuSimpleSentEval-2021 Shared Task: Evaluating Sentence Simplification for
+  Russian~/ A.~Sakhovskiy, A.~Izhevskaya, A.~Pestova et~al.~// Proceedings of
+  DIALOGUE 2021 conference.
+\newblock 2021.  June.
+\newblock P.~607--617.
+
+\bibitem{likert}
+\selectlanguageifdefined{russian}
+М.С.~Косолапов. Шкала Лайкерта (Ликерта).
+  Социологический словарь~/ {под ред.
+  }Г.~В.~Осипов.
+\newblock М.: Академический учебно-научный
+  центр РАН-МГУ им. М.В. Ломоносова, НОРМА,
+  НИЦ ИНФРА М, 2015.
+\newblock {С.}~372--373.
+
+\bibitem{test}
+\selectlanguageifdefined{english}
+Paasche-Orlow~M., Taylor~H., Brancati~F. Readability Standards for
+  Informed-Consent Forms as Compared with Actual Readability~// The New England
+  journal of medicine.
+\newblock 2003.  February.
+\newblock Vol. 348.
+\newblock P.~721--726.
+
+\bibitem{xu_optimizing_2016}
+\selectlanguageifdefined{english}
+Optimizing Statistical Machine Translation for Text Simplification~/ W.~Xu,
+  C.~Napoles, E.~Pavlick et~al.~// Transactions of the Association for
+  Computational Linguistics.
+\newblock 2016.  December.
+\newblock Vol.~4.
+\newblock P.~401--415.
+
+\bibitem{sulem_semantic_2018}
+\selectlanguageifdefined{english}
+Sulem~E., Abend~O., Rappoport~A. Semantic Structural Evaluation for Text
+  Simplification~// Proceedings of the 2018 Conference of the North American
+  Chapter of the Association for Computational Linguistics: Human Language
+  Technologies, Volume 1 (Long Papers).
+\newblock Association for Computational Linguistics, 2018.
+\newblock P.~685--696.
+
+\bibitem{see_get_2017}
+\selectlanguageifdefined{english}
+See~A., Liu~P.~J., Manning~C.~D. Get To The Point: Summarization with
+  Pointer-Generator Networks~// Proceedings of the 55th Annual Meeting of the
+  Association for Computational Linguistics (Volume 1: Long Papers).
+\newblock Association for Computational Linguistics.
+\newblock P.~1073--1083.
+
+\bibitem{paetzold_survey_2017}
+\selectlanguageifdefined{english}
+Paetzold~G., Specia~L. A Survey on Lexical Simplification~// Journal of
+  Artificial Intelligence Research.
+\newblock 2017.  November.
+\newblock Vol.~60.
+\newblock P.~549--593.
+
+\bibitem{noauthor_nlp_nodate}
+\selectlanguageifdefined{russian}
+{NLP} From Scratch: Translation with a Sequence to Sequence Network and
+  Attention — {PyTorch} Tutorials 1.10.1+cu102 documentation
+  [Электронный ресурс]. - Режим доступа:
+  https://pytorch.org/tutorials/intermediate/seq2seq\_translation\_tutorial.html
+  (Дата обращения: 01-01-2022).
+
+\bibitem{rus_pas}
+\selectlanguageifdefined{russian}
+Валгина~Н.С.~Розенталь~Д.Э.~Фомина~М.И.
+  Современный русский язык: Учебник.
+\newblock 6-е изд., перераб. и доп. - М.: Логос, 2002.
+\newblock {с.}~528.
+
+\bibitem{chandrasekar_automatic_1997}
+\selectlanguageifdefined{english}
+Chandrasekar~R., Bangalore~S. Automatic Induction of Rules for Text
+  Simplification~// Knowl.-Based Syst.
+\newblock 1997.  October.
+\newblock Vol.~10.
+\newblock P.~183--190.
+
+\bibitem{siddharthan_syntactic_2006}
+\selectlanguageifdefined{english}
+Siddharthan~A. Syntactic Simplification and Text Cohesion~// Research on
+  Language \& Computation.
+\newblock 2004.  July.
+\newblock Vol.~4.
+
+\bibitem{jonnalagadda_biosimplify_2010}
+\selectlanguageifdefined{english}
+Jonnalagadda~S.~R., Gonzalez~G. BioSimplify: an open source sentence
+  simplification engine to improve recall in automatic biomedical information
+  extraction~// AMIA Annual Symposium proceedings.
+\newblock 2010.
+\newblock Vol. 2010.
+\newblock P.~351--355.
+
+\bibitem{hutchison_ernesta_2013}
+\selectlanguageifdefined{english}
+Barlacchi~G., Tonelli~S. ERNESTA: A Sentence Simplification Tool for Children's
+  Stories in Italian~// Computational Linguistics and Intelligent Text
+  Processing.
+\newblock Springer Berlin Heidelberg, 2013.
+\newblock P.~476--487.
+
+\bibitem{alva}
+\selectlanguageifdefined{english}
+Alva-Manchego~F., Scarton~C., Specia~L. Data-Driven Sentence Simplification:
+  Survey and Benchmark~// Computational Linguistics.
+\newblock 2020.
+\newblock Vol.~46.
+\newblock P.~1--87.
+
+\bibitem{aluisio_fostering_2010}
+\selectlanguageifdefined{english}
+Aluisio~S., Gasperin~C. PorSimples: Simplification of Portuguese Texts
+  Fostering Digital Inclusion and Accessibility~// Proceedings of the NAACL HLT
+  2010 Young Investigators Workshop on Computational Approaches to Languages of
+  the Americas.
+\newblock 2010.  June.
+
+\bibitem{deep}
+\selectlanguageifdefined{english}
+A Review on Deep Learning Techniques Applied to Semantic Segmentation~/
+  A.~Garcia-Garcia, S.~Orts, S.~Oprea et~al.~// arXiv preprint
+  arXiv:1704.06857.
+\newblock 2017.
+
+\bibitem{nisioi_exploring_2017}
+\selectlanguageifdefined{english}
+Exploring Neural Text Simplification Models~/ S.~Nisioi, S.~Stajner,
+  S.~Ponzetto et~al.~// ACL.
+\newblock 2017.  January.
+\newblock P.~85--91.
+
+\bibitem{zhang_sentence_2017}
+\selectlanguageifdefined{english}
+Zhang~X., Lapata~M. Sentence Simplification with Deep Reinforcement Learning~//
+  Proceedings of the 2017 Conference on Empirical Methods in Natural Language
+  Processing.
+\newblock Copenhagen, Denmark: Association for Computational Linguistics, 2017.
+\newblock P.~584--594.
+
+\bibitem{devlin_bert_2019}
+\selectlanguageifdefined{english}
+{BERT}: Pre-training of Deep Bidirectional Transformers for Language
+  Understanding~/ J.~Devlin, M.-W.~Chang, K.~Lee et~al.~// arXiv preprint
+  arXiv:1810.04805.
+\newblock 2019.  May.
+
+\bibitem{saint_petersburg_russia_rusimscore_2021}
+\selectlanguageifdefined{english}
+Orzhenovskii~M. {RuSimScore}: unsupervised scoring function for Russian
+  sentence simplification quality~// Proceedings of DIALOGUE 2021 conference.
+\newblock 2021.  June.
+\newblock P.~524--532.
+
+\bibitem{ranepa_moscow_russia_sentence_2021}
+\selectlanguageifdefined{english}
+Shatilov~A.~A., Rey~A.~I. Sentence simplification with {ruGPT}3~// Proceedings
+  of DIALOGUE 2021 conference.
+\newblock 2021.  June.
+\newblock P.~618--625.
+
+\end{thebibliography}
