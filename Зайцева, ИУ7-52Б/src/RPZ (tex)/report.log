@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.6) (preloaded format=pdflatex 2021.9.4)  17 JAN 2022 15:47
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.6) (preloaded format=pdflatex 2021.9.4)  18 JAN 2022 17:56
 entering extended mode
 **./report.tex
 (report.tex
@@ -1414,19 +1414,13 @@ n_tutorial.html
 
 [26] [27])) [28] (report.aux (01-contents.aux) (02-intro.aux) (10-analysis.aux)
 (20-design.aux) (50-conclusion.aux) (51-biblio.aux))
-
-Package rerunfilecheck Warning: File `report.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `report.out':
-(rerunfilecheck)             Before: FBBACA8CCB004B43704E6270BECD3848;3698
-(rerunfilecheck)             After:  3DB3DA34588AB41731CA7D6F9C639877;3730.
+Package rerunfilecheck Info: File `report.out' has not changed.
+(rerunfilecheck)             Checksum: 3DB3DA34588AB41731CA7D6F9C639877;3730.
  ) 
 Here is how much of TeX's memory you used:
  38850 strings out of 478864
  889975 string characters out of 2858518
- 1337793 words of memory out of 10000000
+ 1337792 words of memory out of 10000000
  55938 multiletter control sequences out of 15000+600000
  413779 words of font info for 45 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -1446,9 +1440,9 @@ s/cm/cmmi10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.
 pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Progr
 am Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKT
 eX/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on report.pdf (27 pages, 363293 bytes).
+Output written on report.pdf (27 pages, 363776 bytes).
 PDF statistics:
- 859 PDF objects out of 1000 (max. 8388607)
+ 860 PDF objects out of 1000 (max. 8388607)
  104 named destinations out of 1000 (max. 500000)
  195 words of extra memory for PDF output out of 10000 (max. 10000000)
 
